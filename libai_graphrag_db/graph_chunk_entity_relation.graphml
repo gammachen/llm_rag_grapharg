@@ -1,70 +1,341 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="order" attr.type="long"/>
+<key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="description" attr.type="string"/>
+<key id="d4" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d3" for="node" attr.name="clusters" attr.type="string"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
 <key id="d1" for="node" attr.name="description" attr.type="string"/>
 <key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
-<graph edgedefault="undirected"><node id="&quot;公元701年&quot;">
-  <data key="d0">"EVENT"</data>
-  <data key="d1">"The year 701 is mentioned as the birth year of Li Bai, indicating a historical event."</data>
-  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
-</node>
-<node id="&quot;西域碎叶城（今吉尔吉斯斯坦托克马克)&quot;">
-  <data key="d0">"LOCATION"</data>
-  <data key="d1">"The birthplace of Li Bai, now Tokmak, Kyrgyzstan."</data>
-  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
-</node>
-<node id="&quot;匡山（今四川江油境内)&quot;">
-  <data key="d0">"LOCATION"</data>
-  <data key="d1">"The location where Li Bai studied for ten years at the age of fifteen, now Jiangyou County, Sichuan."</data>
-  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
-</node>
-<node id="&quot;梓州（今四川三台)&quot;">
-  <data key="d0">"LOCATION"</data>
-  <data key="d1">"The location where Li Bai visited Zhao Yi, now Santu County, Sichuan."</data>
-  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
-</node>
-<node id="&quot;安陆（今湖北安陆)&quot;">
-  <data key="d0">"LOCATION"</data>
-  <data key="d1">"The location where Li Bai settled after leaving Jiangling (now Jingzhou, Hubei) and before moving to Donglai County."</data>
-  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
-</node>
-<node id="&quot;许氏&quot;">
+<graph edgedefault="undirected"><node id="&quot;LI BAI (LI PO)&quot;">
   <data key="d0">"PERSON"</data>
-  <data key="d1">"The wife of Li Bai who passed away in 739, named Xu."</data>
-  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
+  <data key="d1">"Li Bai is an ancient Chinese poet known for his literary achievements."</data>
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
 </node>
-<node id="&quot;唐玄宗&quot;">
+<node id="&quot;SUYAB&quot;/&quot;TOKMOK, KYRGYZSTAN&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Suyab or Tokmok in present-day Kyrgyzstan was the birthplace of Li Bai."</data>
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+</node>
+<node id="&quot;CHANGLONG COUNTY&quot;/&quot;MIANZHOU&quot;/&quot;JIANNAN CIRCUIT&quot;/PRESENT-DAY JIANGYOU,&lt;SICHUAN&quot;&gt;">
+  <data key="d0">LOCATION"</data>
+  <data key="d1">"A location where Li Bai grew up and studied swordsmanship."</data>
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+</node>
+<node id="&quot;KUANG MOUNTAIN&quot;/&lt;PRESENT-DAY JIANGYOU, SICHUAN&gt;">
+  <data key="d0">GEO"</data>
+  <data key="d1">"Mountain in present-day Jiangyou, Sichuan where Li Bai began his studies at fourteen years old."</data>
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+</node>
+<node id="&quot;LI BAI&quot;">
   <data key="d0">"PERSON"</data>
-  <data key="d1">"Tang Xuan Zong was the emperor who summoned Li Bai to court in autumn 742."&lt;SEP&gt;"Tang Xuanzong is an emperor who summons Li Bai to Chang'an, appoints him as a non-formal officer in the imperial court responsible for composing poems or essays on behalf of Emperor Tang Xuanzong. He also grants Li Bai money and later becomes involved with other historical figures."</data>
-  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f&lt;SEP&gt;chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+  <data key="d1">"Li Bai is a poet who traveled extensively and faced health issues towards the end of life."&lt;SEP&gt;"Li Bai is an iconic poet who lived through various significant events and had interactions with other historical figures."</data>
+  <data key="d2">chunk-af708e7ec8088347425ceeae63f00c9f&lt;SEP&gt;chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
 </node>
-<node id="&quot;妇刘氏&quot;">
+<node id="&quot;LADY XU&quot;">
   <data key="d0">"PERSON"</data>
-  <data key="d1">"妇刘氏 is a woman who initially wanted to reorganize her family but disliked Li Bai's lack of official position and often spoke coldly, leading him to leave frequently."</data>
-  <data key="d2">chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+  <data key="d1">"Lady Xu was Li Bai's wife, whose death deeply affected him."</data>
+  <data key="d2">chunk-af708e7ec8088347425ceeae63f00c9f</data>
 </node>
-<node id="&quot;李白&quot;">
+<node id="&quot;KONG CHAOFU&quot;">
   <data key="d0">"PERSON"</data>
-  <data key="d1">"Li Bai is an individual involved in various events throughout his life. He eventually becomes part of the imperial court as a non-formal officer under Emperor Tang Xuanzong (玄宗). Li Bai also has interactions with other historical figures like Du Fu and writes poetry."&lt;SEP&gt;"李白 is a historical figure who visited various locations, wrote poems and died at the age of 62 in 762 AD. He was known for his poetry and had several notable life events documented."</data>
-  <data key="d2">chunk-b02ce44fab557da578581fcc93727c81&lt;SEP&gt;chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+  <data key="d1">"Kong Chaofu is one of the recluses who formed a drinking society with others in Yanzhou."</data>
+  <data key="d2">chunk-af708e7ec8088347425ceeae63f00c9f</data>
 </node>
-<node id="&quot;翰林院&quot;">
+<node id="&quot;HAN ZHUN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Han Zhun was another member involved in forming a drinking society on Culai Mountain."</data>
+  <data key="d2">chunk-af708e7ec8088347425ceeae63f00c9f</data>
+</node>
+<node id="&quot;MOUNT TAI&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Mount Tai is mentioned as one of the locations associated with Li Bai's life and activities."</data>
+  <data key="d2">chunk-af708e7ec8088347425ceeae63f00c9f</data>
+</node>
+<node id="&quot;CULAI MOUNTAIN&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Culai Mountain was where a drinking society known as 'Six Idlers of Bamboo Creek' formed."</data>
+  <data key="d2">chunk-af708e7ec8088347425ceeae63f00c9f</data>
+</node>
+<node id="&quot;LI LIN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Li Lin is mentioned in relation to Prince Yong and the An Lushan Rebellion."</data>
+  <data key="d2">chunk-af708e7ec8088347425ceeae63f00c9f</data>
+</node>
+<node id="&quot;DU FU&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Du Fu is mentioned as a poet who met Li Bai, indicating he was also an important historical figure."</data>
+  <data key="d2">chunk-af708e7ec8088347425ceeae63f00c9f</data>
+</node>
+<node id="&quot;BAIDI TOWN&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Baidi Town was visited by Li Bai, where he experienced an amnesty that influenced his poetry."</data>
+  <data key="d2">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
+</node>
+<node id="&quot;JIANGLING&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Jiangling is a location mentioned in one of the poems written during Baidi Town visit."</data>
+  <data key="d2">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
+</node>
+<node id="&quot;MOUNT JINGTING&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Mount Jingting was revisited by Li Bai, inspiring him to write poetry."</data>
+  <data key="d2">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
+</node>
+<node id="&quot;QUAN ZHAOYI&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Quan Zhaoyi is an old friend of Li Bai who hosted him in Jinling."</data>
+  <data key="d2">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
+</node>
+<node id="&quot;DANGTU COUNTY MAGISTRATE'S OFFICE&quot;">
   <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"The Hanlin Academy is an organization where Li Bai lives as a member, writing poetry in response to imperial commands during his time there."</data>
-  <data key="d2">chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+  <data key="d1">"Li Yangbing, a county magistrate at Dangtu where Li Bai sought refuge and passed away."</data>
+  <data key="d2">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
 </node>
-<node id="&quot;洛阳&quot;">
-  <data key="d0">"LOCATION"</data>
-  <data key="d1">"Loyang is a location where Liu initially moves after leaving Li Bai, indicating it as part of his journey."</data>
-  <data key="d2">chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+<node id="&quot;SPRING 759 AD&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Spring 759 AD is a specific year mentioned when Li Bai reached Baidi Town."</data>
+  <data key="d2">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
 </node>
-<node id="&quot;宣城&quot;">
-  <data key="d0">"LOCATION"</data>
-  <data key="d1">"Xuan Cheng is a location where Li Bai eventually goes after being pardoned by Liu's wife, indicating it as part of his journey."&lt;SEP&gt;"宣城 is one location where 李白 went to write about '众鸟高飞尽，孤云独去闲'."</data>
-  <data key="d2">chunk-b02ce44fab557da578581fcc93727c81&lt;SEP&gt;chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+<node id="&quot;AUTUMN 760 AD&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Autumn 760 AD refers to the time period during which Li Bai revisited Mount Jingting and stayed at Quan Zhaoyi's home in Jinling."</data>
+  <data key="d2">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
 </node>
-<node id="&quot;金陵&quot;">
-  <data key="d0">"LOCATION"</data>
-  <data key="d1">"Jiangling is a location where Li Bai goes after being pardoned by Liu's wife, indicating it as part of his journey."</data>
-  <data key="d2">chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+<node id="&quot;WINTER 762 AD&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Winter 762 AD is a specific year mentioned when Li Bai died of illness in Dangtu County Magistrate's Office."</data>
+  <data key="d2">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
 </node>
+<node id="&quot;SUYAB/TOKMOK, KYRGYZSTAN&quot;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">"person"/"geo"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;CHANGLONG COUNTY/MIANZHOU/JIANNAN CIRCUIT/&lt;PRESENT-DAY JIANGYOU,&lt;SICHUAN&quot;&gt;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"location"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;KUANG MOUNTAIN/&lt;PRESENT-DAY JIANGYOU,&lt;SICHUAN&quot;&gt;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"geo"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;ZIZHOU/SANTAI, SICHUAN&quot;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"location"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;JIANGLING/&lt;PRESENT-DAY JINGZHOU,&lt;HUBEI&quot;&gt;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"geo"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;QINHUAI RIVER/NANJING&quot;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"location"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;YANGZHOU&quot;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"geo"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;ANLU/&lt;PRESENT-DAY ANLU,&lt;HUBEI&quot;&gt;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"location"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;MOUNT SONG/&lt;PRESENT-DAY LUOYANG&quot;&gt;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"geo"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;RENCHENG/JINING,&lt;SHANDONG&quot;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"location"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;CULAI MOUNTAIN/&lt;PRESENT-DAY JINING,&lt;SHANDONG&quot;&gt;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"location"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;SIMA CHENGZHEN/&lt;PRESENT-DAY JINGZHOU,&lt;HUBEI&quot;&gt;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"geo"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;XU YUSHI/&lt;UNKNOWN LOCATION OF XU'S RESIDENCE AFTER RETIREMENT&quot;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"location"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;LADY XU (LI BAI’S WIFE)&quot;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">person"/"location"|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;KONG CHAOFU/&quot; AND &quot;HAN ZHUN/UNKNOWN LOCATION&quot;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">|&lt;|"Met Li Bai at Culai Mountain, forming 'Six Idlers of Bamboo Creek' drinking society with him.</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="PERSONS&quot;/&quot;RECLUSES&quot;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">|&lt;|"Met Li Bai at Culai Mountain, forming 'Six Idlers of Bamboo Creek' drinking society with him.</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;CHANG’AN/UNKNOWN LOCATION&quot;/&quot;CITY&quot;">
+  <data key="d2">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d1">location|&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;JINLING&quot;">
+  <data key="d2">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
+  <data key="d1">"Quan Zhaoyi hosted Li Bai at Jinling."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;LI YANGBING&quot;">
+  <data key="d2">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
+  <data key="d1">"Li Yangbing was the county magistrate who housed and cared for Li Bai in Dangtu during Winter 762 AD."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;SUYAB/TOKMOK, KYRGYZSTAN&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"person"/"geo"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;CHANGLONG COUNTY/MIANZHOU/JIANNAN CIRCUIT/&lt;PRESENT-DAY JIANGYOU,&lt;SICHUAN&quot;&gt;">
+  <data key="d4">9.0</data>
+  <data key="d5">person"/"location"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;KUANG MOUNTAIN/&lt;PRESENT-DAY JIANGYOU,&lt;SICHUAN&quot;&gt;">
+  <data key="d4">8.0</data>
+  <data key="d5">person"/"geo"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;ZIZHOU/SANTAI, SICHUAN&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">person"/"location"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;JIANGLING/&lt;PRESENT-DAY JINGZHOU,&lt;HUBEI&quot;&gt;">
+  <data key="d4">6.0</data>
+  <data key="d5">person"/"geo"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;QINHUAI RIVER/NANJING&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">person"/"location"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;YANGZHOU&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">person"/"geo"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;ANLU/&lt;PRESENT-DAY ANLU,&lt;HUBEI&quot;&gt;">
+  <data key="d4">7.0</data>
+  <data key="d5">person"/"location"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;MOUNT SONG/&lt;PRESENT-DAY LUOYANG&quot;&gt;">
+  <data key="d4">6.0</data>
+  <data key="d5">person"/"geo"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;RENCHENG/JINING,&lt;SHANDONG&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">person"/"location"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;CULAI MOUNTAIN/&lt;PRESENT-DAY JINING,&lt;SHANDONG&quot;&gt;">
+  <data key="d4">6.0</data>
+  <data key="d5">person"/"location"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;SIMA CHENGZHEN/&lt;PRESENT-DAY JINGZHOU,&lt;HUBEI&quot;&gt;">
+  <data key="d4">5.0</data>
+  <data key="d5">person"/"geo"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;XU YUSHI/&lt;UNKNOWN LOCATION OF XU'S RESIDENCE AFTER RETIREMENT&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">person"/"location"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI (LI PO)&quot;" target="&quot;CHANG’AN/UNKNOWN LOCATION&quot;/&quot;CITY&quot;">
+  <data key="d4">3.0</data>
+  <data key="d5">location|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI&quot;" target="&quot;BAIDI TOWN&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Li Bai visited Baidi Town during Spring 759 AD."</data>
+  <data key="d6">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LI BAI&quot;" target="&quot;MOUNT JINGTING&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Li Bai revisited Mount Jingting, inspiring his poetry in Autumn 760 AD."</data>
+  <data key="d6">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;QUAN ZHAOYI&quot;" target="&quot;JINLING&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Quan Zhaoyi hosted Li Bai at Jinling."</data>
+  <data key="d6">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;DANGTU COUNTY MAGISTRATE'S OFFICE&quot;" target="&quot;LI YANGBING&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Li Yangbing was the county magistrate who housed and cared for Li Bai in Dangtu during Winter 762 AD."</data>
+  <data key="d6">chunk-de4bebc2903812b72e0b4c87e9304a1d</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ANLU/&lt;PRESENT-DAY ANLU,&lt;HUBEI&quot;&gt;" target="&quot;LADY XU (LI BAI’S WIFE)&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">person"/"location"|&gt;</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;KONG CHAOFU/&quot; AND &quot;HAN ZHUN/UNKNOWN LOCATION&quot;" target="PERSONS&quot;/&quot;RECLUSES&quot;">
+  <data key="d4">5.0</data>
+  <data key="d5">|&lt;|"Met Li Bai at Culai Mountain, forming 'Six Idlers of Bamboo Creek' drinking society with him.</data>
+  <data key="d6">chunk-42ffa192b7fac4df845ceaec79fec138</data>
+  <data key="d7">1</data>
+</edge>
 </graph></graphml>
