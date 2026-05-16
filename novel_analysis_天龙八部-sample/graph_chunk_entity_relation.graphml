@@ -1,0 +1,1731 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="order" attr.type="long"/>
+<key id="d5" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d4" for="edge" attr.name="description" attr.type="string"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;LEFT ZIMU&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Left Zimu is the掌门 of the East宗 of the Sword Lake, a powerful figure in the martial arts tradition."</data>
+  <data key="d2">chunk-92c184f9baee8a9eb1df28da52a57511</data>
+</node>
+<node id="&quot;WESTERN MASTER&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Western Master is the掌门 of the West宗 of the Sword Lake, a rival faction with a history of conflict."</data>
+  <data key="d2">chunk-92c184f9baee8a9eb1df28da52a57511</data>
+</node>
+<node id="&quot;YOUNG MASTER&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Young Master is a guest from Yunnan, invited by the Western Master to participate in the sword fight, showcasing martial prowess."</data>
+  <data key="d2">chunk-92c184f9baee8a9eb1df28da52a57511</data>
+</node>
+<node id="&quot;GUEST&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The guest from Yunnan is a notable figure in the story, introduced by the Western Master and observed by the Young Master."</data>
+  <data key="d2">chunk-92c184f9baee8a9eb1df28da52a57511</data>
+</node>
+<node id="&quot;SWORD LAKE PALACE&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Sword Lake Palace is the annual sword fight venue where the three宗 compete, located in the Sword Mountain region."</data>
+  <data key="d2">chunk-92c184f9baee8a9eb1df28da52a57511</data>
+</node>
+<node id="&quot;YUNNAN REGION&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Yunnan Region is the location of the guest's arrival, where the Western Master invites them to participate in the sword fight."</data>
+  <data key="d2">chunk-92c184f9baee8a9eb1df28da52a57511</data>
+</node>
+<node id="&quot;LEFT&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Left is a character involved in a confrontation with Segment, showing frustration and a desire to challenge the other party."</data>
+  <data key="d2">chunk-a7936fe516b63d5a11e0ce7f490084f1</data>
+</node>
+<node id="&quot;SEGMENT&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Segment is a character who challenges Left's arrogance, humorously dismissing the concept of control and engaging in a martial arts duel."</data>
+  <data key="d2">chunk-a7936fe516b63d5a11e0ce7f490084f1</data>
+</node>
+<node id="&quot;MA FIVE DE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Ma Five De is a supportive character who intervenes to protect Segment, offering a meal and acknowledging Segment's skills despite his initial arrogance."</data>
+  <data key="d2">chunk-a7936fe516b63d5a11e0ce7f490084f1</data>
+</node>
+<node id="&quot;GONG GUANG JIE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Gong Guang Jie is a rival who challenges Segment, insisting on a duel and expressing frustration over Left's perceived arrogance."</data>
+  <data key="d2">chunk-a7936fe516b63d5a11e0ce7f490084f1</data>
+</node>
+<node id="&quot;JIANLUO PALACE&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Jianluo Palace is the location where the confrontation takes place, symbolizing the clash between traditional martial arts and modern challenges."</data>
+  <data key="d2">chunk-a7936fe516b63d5a11e0ce7f490084f1</data>
+</node>
+<node id="&quot;WUMING WEST CLAN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Wuming West Clan is the martial arts organization associated with the '无量剑' concept, representing the traditional martial arts philosophy and the conflict with modern challenges."</data>
+  <data key="d2">chunk-a7936fe516b63d5a11e0ce7f490084f1</data>
+</node>
+<node id="&quot;WUMING&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Wuming is the martial arts technique and philosophy central to the story, embodying the struggle between traditional values and modern challenges."</data>
+  <data key="d2">chunk-a7936fe516b63d5a11e0ce7f490084f1</data>
+</node>
+<node id="&quot;龚光杰&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"龚光杰 is a martial arts master who fights段誉 and is frustrated by his inability to dodge his palm strike."&gt;&lt;SEP&gt;"龚光杰 is a warrior engaged in a fierce battle against an unknown intelligence, showcasing his determination and the chaotic environment of the fight."&lt;SEP&gt;"龚光杰 is another disciple of the无量剑, involved in the confrontation with the神农帮."&lt;SEP&gt;"龚光杰是神农帮的弟子，参与与未知智能的沟通，表现出紧张和警惕的神情。"</data>
+  <data key="d2">chunk-08862469dfa54cb6af7b0752018bf315&lt;SEP&gt;chunk-06fbe60123ff5a483fe9e17c7b6c233e&lt;SEP&gt;chunk-6012194fc2a785faffa8971241ec2073&lt;SEP&gt;chunk-4e05afb7d44a061e7b569b28b32db7ed</data>
+</node>
+<node id="&quot;段誉&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">**Comprehensive Summary of "段誉":**  
+段誉是《天龙八部》中的核心主角，作为武林中人，他身负重要使命，带领团队与未知智能体展开首次接触，同时面临生存危机。他兼具学者与武者双重身份，专研易理与经文，受业于神农帮，专研北冥神功与凌波微步，通过观察画中裸女与绿线理解神秘力量的运作原理。段誉是团队的领导者，与钟灵、钟姑娘、黑衣女郎等关键人物展开复杂互动，既需应对敌人的威胁，又需在道德与生存之间挣扎。他性格智慧幽默，擅长策略谋划，但亦因身体损伤与情感冲突而经历成长，最终与钟灵达成和解，并揭示自身身份的真相。段誉的行动不仅推动剧情发展，也凸显了他作为武林领袖的坚韧与担当。
+&lt;|COMPLETE|&gt;</data>
+  <data key="d2">chunk-7b81acad343b1b6f6f02c7f1f9430d03&lt;SEP&gt;chunk-c50011b20c2ee043f8f12d02d25cf938&lt;SEP&gt;chunk-4e443a0728e932dfbe5d098640df1cd2&lt;SEP&gt;chunk-8afc427c4cc929f6a6e369a8d408596d&lt;SEP&gt;chunk-5e050a28ccd170106cbe5386fddea1d5&lt;SEP&gt;chunk-d4201f5703017f87fd8ab36135f67ed5&lt;SEP&gt;chunk-06fbe60123ff5a483fe9e17c7b6c233e&lt;SEP&gt;chunk-aacc28ee7e102eeb0aac0ac8b9b947f7&lt;SEP&gt;chunk-ba2222d48105cae142ebbd362ed41cc9&lt;SEP&gt;chunk-3ff80f7b68bc3451bf680d303f1fc015&lt;SEP&gt;chunk-08862469dfa54cb6af7b0752018bf315&lt;SEP&gt;chunk-4e05afb7d44a061e7b569b28b32db7ed&lt;SEP&gt;chunk-dd997cbcd5a121e3e43d73fa6084fbac&lt;SEP&gt;chunk-05a895c63dcd6d56ace57b2dbd627f9e&lt;SEP&gt;chunk-0f2f867906a687ef5b12ded952687685&lt;SEP&gt;chunk-d7d52f2751f82971bd2856d671d95ae4&lt;SEP&gt;chunk-3232be15b68516bd0673704c90b5ff92&lt;SEP&gt;chunk-a4615ba3e3ee41f8b04c0e66d2d3cbce&lt;SEP&gt;chunk-064024d7ed321aa8b378e97bd5ddf5ff&lt;SEP&gt;chunk-ddb3db3fcce8d0b4ddea809d94933571&lt;SEP&gt;chunk-4512cfc06d43cc28ac2d1c323ab9487b&lt;SEP&gt;chunk-929024d7c00e534c27f8b8317cba64bc&lt;SEP&gt;chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+</node>
+<node id="&quot;马五德&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"马五德 is a character who不忍心扶起段誉, showing compassion."&gt;</data>
+  <data key="d2">chunk-06fbe60123ff5a483fe9e17c7b6c233e</data>
+</node>
+<node id="&quot;左子穆&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"左子穆 is a character who challenges段誉 and wants to teach him martial arts."&gt;&lt;SEP&gt;"左子穆 is a martial artist involved in a critical confrontation, demonstrating his skill and the tension of the situation."&lt;SEP&gt;"左子穆 is the master, involved in the conflict with the神农帮."&lt;SEP&gt;"左子穆是神农帮的成员，负责监控信件并阻止龚光杰接触，其言行透露出对未知力量的警惕。"</data>
+  <data key="d2">chunk-08862469dfa54cb6af7b0752018bf315&lt;SEP&gt;chunk-06fbe60123ff5a483fe9e17c7b6c233e&lt;SEP&gt;chunk-6012194fc2a785faffa8971241ec2073&lt;SEP&gt;chunk-4e05afb7d44a061e7b569b28b32db7ed</data>
+</node>
+<node id="&quot;少女&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The girl is a fighter in a high-stakes battle, navigating the chaos with her own strategies and the backdrop of the conflict."&lt;SEP&gt;"少女是神农帮的潜在成员，知晓信件中的毒药信息，并试图与龚光杰商议对策，其言行透露出对神农帮的复杂态度。"</data>
+  <data key="d2">chunk-6012194fc2a785faffa8971241ec2073&lt;SEP&gt;chunk-4e05afb7d44a061e7b569b28b32db7ed</data>
+</node>
+<node id="&quot;无量剑&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"无量剑 is an organization involved in the conflict, representing the forces at play in the battle against the unknown intelligence."&lt;SEP&gt;"无量剑是与神农帮有恩怨的敌对组织，段誉因目睹其成员惨死而欲劝解。&gt;"&lt;SEP&gt;"无量剑是神农帮的分支，擅长武艺但缺乏毒术，其成员在战斗中被击败，凸显其弱点。"</data>
+  <data key="d2">chunk-8afc427c4cc929f6a6e369a8d408596d&lt;SEP&gt;chunk-6012194fc2a785faffa8971241ec2073&lt;SEP&gt;chunk-4e05afb7d44a061e7b569b28b32db7ed</data>
+</node>
+<node id="&quot;双清道&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"双清道 is the location where the battle takes place, serving as a critical backdrop to the confrontation between the characters and the unknown intelligence."</data>
+  <data key="d2">chunk-6012194fc2a785faffa8971241ec2073</data>
+</node>
+<node id="&quot;容子矩&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"容子矩 is a character in the story, involved in the conflict with the神农帮."</data>
+  <data key="d2">chunk-08862469dfa54cb6af7b0752018bf315</data>
+</node>
+<node id="&quot;干光豪&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"干光豪 is a disciple of the无量剑, involved in the confrontation with the神农帮."&lt;SEP&gt;"干光豪是东宗西宗的掌门，与葛师妹共同经历剑湖事件，展现家族纽带。"&lt;SEP&gt;"干光豪是段誉的对手，与葛师妹成婚，意图阻止段誉与未知智能体的接触，展现传统宗门的势力。"</data>
+  <data key="d2">chunk-08862469dfa54cb6af7b0752018bf315&lt;SEP&gt;chunk-dd997cbcd5a121e3e43d73fa6084fbac&lt;SEP&gt;chunk-73e81947ba085538dfb2fd722b3f065f</data>
+</node>
+<node id="&quot;神农帮&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A secret society in the novel, known for its violent practices and involvement in the story's conflicts."&lt;SEP&gt;"神农帮 is an organization that is mentioned in the text as the one who captured "钟灵"."&lt;SEP&gt;"神农帮是主要的组织，钟灵等人隶属于此帮，致力于采药制药，但因闪电貂的威胁而面临挑战。"&lt;SEP&gt;"神农帮是故事中的主要组织，与钟灵、司空玄存在冲突，涉及生死符等神秘力量。"&lt;SEP&gt;"神农帮是段誉所属的帮派，与无量剑有矛盾，段誉试图化解双方恩怨。&gt;"&lt;SEP&gt;"神农帮是虚构的组织，掌握着与未知智能沟通的权限，其行动威胁到武林的平衡。"</data>
+  <data key="d2">chunk-067c9ef037d04fbaa1e846b53f8153ef&lt;SEP&gt;chunk-7b81acad343b1b6f6f02c7f1f9430d03&lt;SEP&gt;chunk-5e050a28ccd170106cbe5386fddea1d5&lt;SEP&gt;chunk-8afc427c4cc929f6a6e369a8d408596d&lt;SEP&gt;chunk-4512cfc06d43cc28ac2d1c323ab9487b&lt;SEP&gt;chunk-4e05afb7d44a061e7b569b28b32db7ed</data>
+</node>
+<node id="&quot;无量山剑湖宫&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"无量山剑湖宫是神农帮的据点，位于文中提及的地理区域，是关键的战斗场所。"</data>
+  <data key="d2">chunk-4e05afb7d44a061e7b569b28b32db7ed</data>
+</node>
+<node id="&quot;LEFT ZI MU&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Left Zi Mu is a character in the story, involved in the plot and dialogue with the girl and the intelligence."&gt;</data>
+  <data key="d2">chunk-f1b37942167c24926317b89f62d570d3</data>
+</node>
+<node id="&quot;DAI COUNTRY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Dai Country is a kingdom where the protagonist, Duan Yu, resides, symbolizing the cultural and historical context of the story."</data>
+  <data key="d2">chunk-923dcd068bac0210535287573cdcafd0</data>
+</node>
+<node id="&quot;WUMA MOUNTAIN&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Wuma Mountain is a geographical location mentioned in the text, known for its scenic beauty and the protagonist's journey to explore it."</data>
+  <data key="d2">chunk-923dcd068bac0210535287573cdcafd0</data>
+</node>
+<node id="&quot;PǓPÈI&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Pǔpèi is a city in Yunnan Province where the protagonist encounters the character Mǎ Wǔdé, a host of the unknown intelligence."</data>
+  <data key="d2">chunk-923dcd068bac0210535287573cdcafd0</data>
+</node>
+<node id="&quot;MASTER ZONGLING&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Master Zongling is a mentor figure to Duan Yu, guiding him through the challenges of life and the unknown intelligence."</data>
+  <data key="d2">chunk-923dcd068bac0210535287573cdcafd0</data>
+</node>
+<node id="&quot;MASTER DUAN YU&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The protagonist, Duan Yu, is a young man who escapes from his father's tutelage, seeking knowledge and understanding through the lens of philosophy and martial arts."</data>
+  <data key="d2">chunk-923dcd068bac0210535287573cdcafd0</data>
+</node>
+<node id="&quot;FIRST CONTACT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"First Contact is the initial communication between Duan Yu's team and the unknown intelligence, marking a pivotal moment in their journey."&lt;SEP&gt;"First Contact is the pivotal event where Zhan Zilong encounters the unknown intelligence and attempts to communicate through the Resonant Chessboard, marking a critical turning point in the story."&lt;SEP&gt;"First Contact is the potential initial communication between humanity and an unknown intelligence, a pivotal event in the narrative that tests the protagonists' resolve and adaptability."&lt;SEP&gt;"First Contact is the potential initial communication between humanity and an unknown intelligence."&lt;SEP&gt;"First Contact是段誉与未知智能体的首次接触，涉及解药和通信。"&lt;SEP&gt;"First Contact是段誉和钟万仇之间的重要事件，涉及首次接触未知智能体。"&lt;SEP&gt;"First Contact是段誉团队与未知智能体的首次接触，他们需要去大理。"&lt;SEP&gt;"The potential initial communication between humanity and an unknown intelligence."&lt;SEP&gt;"段誉与黑衣女郎的冲突可视为首次接触的事件，涉及人类与未知智能的互动。"</data>
+  <data key="d2">chunk-ba2222d48105cae142ebbd362ed41cc9&lt;SEP&gt;chunk-7042d44b19adbb4a1e427845c77603c5&lt;SEP&gt;chunk-0f2f867906a687ef5b12ded952687685&lt;SEP&gt;chunk-e1cee534b89bc93c9ae26e26feb6e2d6&lt;SEP&gt;chunk-d7d52f2751f82971bd2856d671d95ae4&lt;SEP&gt;chunk-c50011b20c2ee043f8f12d02d25cf938&lt;SEP&gt;chunk-5e050a28ccd170106cbe5386fddea1d5&lt;SEP&gt;chunk-d4201f5703017f87fd8ab36135f67ed5&lt;SEP&gt;chunk-923dcd068bac0210535287573cdcafd0</data>
+</node>
+<node id="&quot;HUMANITY'S RESPONSE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Humanity's Response is the collective action taken by Zan Yu's team to address a message from the unknown intelligence, reflecting their transformation from passive observers to active participants."&lt;SEP&gt;"Humanity's Response refers to the collective action taken by Duan Yu's team to engage with the unknown intelligence, reflecting their determination to understand and interact with the cosmic message."&lt;SEP&gt;"Humanity's Response是团队应对未知智能体的行动，包含解药和通信策略。"&lt;SEP&gt;"Humanity's Response是段誉团队对未知智能体的回应，他们需要去大理。"&lt;SEP&gt;"The collective action taken by段誉's team in response to a message from an unknown intelligence."</data>
+  <data key="d2">chunk-ba2222d48105cae142ebbd362ed41cc9&lt;SEP&gt;chunk-e1cee534b89bc93c9ae26e26feb6e2d6&lt;SEP&gt;chunk-d7d52f2751f82971bd2856d671d95ae4&lt;SEP&gt;chunk-d4201f5703017f87fd8ab36135f67ed5&lt;SEP&gt;chunk-923dcd068bac0210535287573cdcafd0</data>
+</node>
+<node id="&quot;ESCAPE FROM HOME&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The protagonist escapes from his father's tutelage, symbolizing the transition from traditional teachings to personal exploration and the pursuit of knowledge."</data>
+  <data key="d2">chunk-923dcd068bac0210535287573cdcafd0</data>
+</node>
+<node id="&quot;大理国&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"A sovereign state in ancient China, home to the protagonist's clan and the setting of the narrative."</data>
+  <data key="d2">chunk-4512cfc06d43cc28ac2d1c323ab9487b</data>
+</node>
+<node id="&quot;钟灵&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The sister of the protagonist, a skilled martial artist, who teaches him about the One Yang Fist and advocates for peaceful resolution."&lt;SEP&gt;"钟灵 is a character who sacrifices herself, and the protagonist's thoughts are intertwined with her, leading to a moment of mutual respect and an uneasy truce."&lt;SEP&gt;"钟灵是故事中的关键角色，参与了与未知智能的首次接触，并在战斗中表现出复杂的情感和行为。"&lt;SEP&gt;"钟灵是段誉的对手，擅长使用解药和计谋，与段誉有密切的互动。"&lt;SEP&gt;"钟灵是段誉的师兄，随行并协助应对未知智能，对段誉的劝说持保留态度。&gt;"&lt;SEP&gt;"钟灵是段誉的引导者，指引其过"善人渡"铁索桥，助其脱离困境。"&lt;SEP&gt;"钟灵是神农帮的弟子，面对生死危机时表现出恐惧与挣扎，与司空玄、段誉有密切互动。"&lt;SEP&gt;"钟灵是神农帮的成员，与司空玄展开激烈战斗，表现出勇敢和机智的特质。"&lt;SEP&gt;"钟灵是钟夫人与钟万仇的私生女，被段誉所救，是故事中的重要角色。"</data>
+  <data key="d2">chunk-067c9ef037d04fbaa1e846b53f8153ef&lt;SEP&gt;chunk-d7d52f2751f82971bd2856d671d95ae4&lt;SEP&gt;chunk-7b81acad343b1b6f6f02c7f1f9430d03&lt;SEP&gt;chunk-3232be15b68516bd0673704c90b5ff92&lt;SEP&gt;chunk-a4615ba3e3ee41f8b04c0e66d2d3cbce&lt;SEP&gt;chunk-4e443a0728e932dfbe5d098640df1cd2&lt;SEP&gt;chunk-8afc427c4cc929f6a6e369a8d408596d&lt;SEP&gt;chunk-ddb3db3fcce8d0b4ddea809d94933571&lt;SEP&gt;chunk-4512cfc06d43cc28ac2d1c323ab9487b</data>
+</node>
+<node id="&quot; MONK&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A character from the novel, representing the wisdom of the ancient arts and the moral dilemmas faced by the protagonists."</data>
+  <data key="d2">chunk-4512cfc06d43cc28ac2d1c323ab9487b</data>
+</node>
+<node id="&quot;司空玄帮主&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"司空玄帮主是故事中的重要人物，与段誉有复杂的关系，涉及战斗和情感纠葛。"</data>
+  <data key="d2">chunk-4e443a0728e932dfbe5d098640df1cd2</data>
+</node>
+<node id="&quot;剑湖宫&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"剑湖宫 is a location where the protagonist had a meal, symbolizing a pivotal moment in their journey."&lt;SEP&gt;"剑湖宫是故事中的重要地点，是段誉和钟灵进行战斗和对话的场所。"</data>
+  <data key="d2">chunk-a4615ba3e3ee41f8b04c0e66d2d3cbce&lt;SEP&gt;chunk-4e443a0728e932dfbe5d098640df1cd2</data>
+</node>
+<node id="&quot;血月&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"血月是故事中的关键现象，象征着未知的威胁，与段誉的战斗和情感冲突密切相关。"</data>
+  <data key="d2">chunk-4e443a0728e932dfbe5d098640df1cd2</data>
+</node>
+<node id="&quot;司空玄&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"司空玄是神农帮帮主，对段誉的劝解持否定态度，后因段誉的言辞而有所动摇。&gt;"&lt;SEP&gt;"司空玄是神农帮帮主，指挥战斗并最终击败闪电貂，展现领导力和决断力。"&lt;SEP&gt;"司空玄是神农帮的首领，掌握生死符等神秘力量，与段誉、钟灵有复杂冲突。"&lt;SEP&gt;"司空玄是重要人物，负责安排救援，与钟灵有直接冲突。"</data>
+  <data key="d2">chunk-8afc427c4cc929f6a6e369a8d408596d&lt;SEP&gt;chunk-067c9ef037d04fbaa1e846b53f8153ef&lt;SEP&gt;chunk-7b81acad343b1b6f6f02c7f1f9430d03&lt;SEP&gt;chunk-d7d52f2751f82971bd2856d671d95ae4</data>
+</node>
+<node id="&quot;闪电貂&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"闪电貂是一种神秘的毒兽，具有极高的攻击性，是战斗中的关键对手。"</data>
+  <data key="d2">chunk-067c9ef037d04fbaa1e846b53f8153ef</data>
+</node>
+<node id="&quot;ZHONG LING&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Zhong Ling is a character in the story, involved in a confrontation with the unknown intelligence."&lt;SEP&gt;"Zhong Ling is a character who speaks truthfully, grappling with the consequences of a dire situation, and is directly involved in the conflict with the unknown intelligence."</data>
+  <data key="d2">chunk-5d28876bdfd983fdc1e44a071ea9834b&lt;SEP&gt;chunk-69a48050c1096bae07e7272f66db98c1</data>
+</node>
+<node id="&quot;DUAN YU&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Duan Yu is the leader of a team attempting first contact with an unknown intelligence, acknowledging the significance of their task."</data>
+  <data key="d2">chunk-5d28876bdfd983fdc1e44a071ea9834b</data>
+</node>
+<node id="&quot;SI KONG XUAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Si Kong Xuan is the antagonist, using the drug and fighting against the characters."</data>
+  <data key="d2">chunk-5d28876bdfd983fdc1e44a071ea9834b</data>
+</node>
+<node id="&quot;SHEN NONG'S CLAN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Shen Nong's Clan is a group of people using drugs and fighting against the unknown intelligence."</data>
+  <data key="d2">chunk-5d28876bdfd983fdc1e44a071ea9834b</data>
+</node>
+<node id="&quot;LIGHTNING FOX&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Lightning Fox is a creature used in the confrontation, capable of biting and moving quickly."</data>
+  <data key="d2">chunk-5d28876bdfd983fdc1e44a071ea9834b</data>
+</node>
+<node id="&quot;SI KONG XIAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Si Kong Xian is a character in the text, a seasoned martial artist on the edge of the unknown, facing a critical confrontation with an unknown intelligence."</data>
+  <data key="d2">chunk-69a48050c1096bae07e7272f66db98c1</data>
+</node>
+<node id="&quot;ZAN YU&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Zan Yu is a character in the story, a skilled martial artist and leader of a team attempting first contact with an unknown intelligence, reflecting on the challenges of communication and the weight of responsibility."&lt;SEP&gt;"Zan Yu is a character who is initially unaware of the danger but later becomes involved in the conflict, showing a mix of awe and anxiety."</data>
+  <data key="d2">chunk-69a48050c1096bae07e7272f66db98c1&lt;SEP&gt;chunk-e1cee534b89bc93c9ae26e26feb6e2d6</data>
+</node>
+<node id="&quot;THE FATHER&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The Father is a character mentioned in the text, representing a significant figure in the narrative, though his role is not explicitly detailed."</data>
+  <data key="d2">chunk-69a48050c1096bae07e7272f66db98c1</data>
+</node>
+<node id="&quot;天山&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"天山是故事中的重要地理地点，位于神农帮的谷中，是冲突的核心场景。"</data>
+  <data key="d2">chunk-7b81acad343b1b6f6f02c7f1f9430d03</data>
+</node>
+<node id="&quot;第一接触&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"第一接触 is the potential initial communication between humanity and an unknown intelligence, marking a critical turning point in the protagonist's journey."&lt;SEP&gt;"第一接触是段誉等人尝试与未知智能体沟通的事件，涉及生死危机和策略制定。"</data>
+  <data key="d2">chunk-7b81acad343b1b6f6f02c7f1f9430d03&lt;SEP&gt;chunk-a4615ba3e3ee41f8b04c0e66d2d3cbce</data>
+</node>
+<node id="&quot;生死符&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"生死符是神农帮的神秘标记，能引发致命毒发，是冲突的关键元素。"</data>
+  <data key="d2">chunk-7b81acad343b1b6f6f02c7f1f9430d03</data>
+</node>
+<node id="&quot;WESTERN MOUNTAIN&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Western Mountain是故事发生的主要地点，包含关键场景如解药存放处。"</data>
+  <data key="d2">chunk-d7d52f2751f82971bd2856d671d95ae4</data>
+</node>
+<node id="&quot;VALLEY OF THE WEST&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Valley of the West是钟灵居住的隐秘山谷，入口有机关暗号，是关键场景。"</data>
+  <data key="d2">chunk-d7d52f2751f82971bd2856d671d95ae4</data>
+</node>
+<node id="&quot;葛师妹&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"葛师妹是太师父的弟子，与干光豪同属东宗，后因仙影隐没而病逝，其弟子持续焚香礼拜祈求剑仙再现。"&lt;SEP&gt;"葛师妹是干光豪的夫人，与段誉相遇后产生感情纠葛，其言行透露出对段誉的复杂情感。"</data>
+  <data key="d2">chunk-dd997cbcd5a121e3e43d73fa6084fbac&lt;SEP&gt;chunk-73e81947ba085538dfb2fd722b3f065f</data>
+</node>
+<node id="&quot;东宗&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"东宗是武林中的一派，与西宗对立，干光豪与葛师妹联合后合为一体。"</data>
+  <data key="d2">chunk-73e81947ba085538dfb2fd722b3f065f</data>
+</node>
+<node id="&quot;西宗&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"西宗是与东宗对立的武林门派，曾因剑湖事件败给东宗。"</data>
+  <data key="d2">chunk-73e81947ba085538dfb2fd722b3f065f</data>
+</node>
+<node id="&quot;剑湖&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"剑湖是东宗弟子修行的地点，玉壁剑影隔谷而望，弟子们在此焚香礼拜祈求仙影再现。"</data>
+  <data key="d2">chunk-73e81947ba085538dfb2fd722b3f065f</data>
+</node>
+<node id="&quot;玉壁&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"玉壁是剑湖上的剑影显现之处，太师父曾试图学习但因剑影模糊无法掌握。"</data>
+  <data key="d2">chunk-73e81947ba085538dfb2fd722b3f065f</data>
+</node>
+<node id="&quot;仙影&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"仙影是剑湖上的剑影，太师父曾试图学习但因剑影模糊无法掌握，后逐渐隐没，引发弟子们的祈求。"</data>
+  <data key="d2">chunk-73e81947ba085538dfb2fd722b3f065f</data>
+</node>
+<node id="&quot;无量玉壁&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A mystical phenomenon or event involving the 'infinite jade wall' that the protagonist encounters, described as a place where仙人舞剑 (mystical sword dancers</data>
+  <data key="d2">chunk-8931304a9a976e5cd32b4884686133a5</data>
+</node>
+<node id="&quot;明湖&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"明湖 is a place where a rainbow appears, reflecting the protagonist's desire to witness美景 in their final moments."</data>
+  <data key="d2">chunk-a4615ba3e3ee41f8b04c0e66d2d3cbce</data>
+</node>
+<node id="&quot;碧湖&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"碧湖 is a location where the protagonist reflects on their fate, with a moonlit view that symbolizes the beauty of the scene."</data>
+  <data key="d2">chunk-a4615ba3e3ee41f8b04c0e66d2d3cbce</data>
+</node>
+<node id="&quot;人类的回应&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"人类的回应 is the collective action taken by the protagonist's team in response to a message from an unknown intelligence, representing their proactive role in the cosmic narrative."</data>
+  <data key="d2">chunk-a4615ba3e3ee41f8b04c0e66d2d3cbce</data>
+</node>
+<node id="&quot;SEGUN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Segun is a character in the story who is curious about the sword and the unknown intelligence, reflecting on his journey and the challenges of mastering wuxia."&lt;SEP&gt;"Segun is the protagonist observing the moon and the lake, reflecting on the reflection of himself in the water."&gt;&lt;SEP&gt;"Segun is the protagonist seeking to understand the mystical puzzle of the 'Zhenlong' (珍珑) and resolve the conflict with the divine sage."</data>
+  <data key="d2">chunk-51658fe07ba5c49537fa4c95c6400bf4&lt;SEP&gt;chunk-df15f357c382b396a7c045d30dd01121&lt;SEP&gt;chunk-01429a200f6188d3e63d84dbe3103d40</data>
+</node>
+<node id="&quot;父亲&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The father of Segun, who is portrayed as a supportive figure, encourages his son to pursue wuxia despite his initial reluctance."</data>
+  <data key="d2">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+</node>
+<node id="&quot;母亲&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The mother of Segun, who is described as understanding his passion for wuxia and supporting his journey."</data>
+  <data key="d2">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+</node>
+<node id="&quot;伯父&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The grandfather of Segun, who is depicted as a kind-hearted individual with a high level of skill in wuxia but who has never used force."</data>
+  <data key="d2">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+</node>
+<node id="&quot;剑&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A legendary sword that is said to be imbued with magical properties, capable of casting colorful shadows and emitting rainbow light, symbolizing the intersection of wuxia and mystical elements."</data>
+  <data key="d2">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+</node>
+<node id="&quot;断肠散&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A medicinal formula that causes intense emotional distress, representing the personal struggles and sacrifices of the protagonist."</data>
+  <data key="d2">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+</node>
+<node id="&quot;湖&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"A large body of water where the protagonist's journey takes place, serving as a symbolic backdrop for the unfolding events and the discovery of the sword."</data>
+  <data key="d2">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+</node>
+<node id="&quot;峭壁&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"A steep cliff where the sword is hidden, surrounded by a mysterious cave and illuminated by moonlight, representing the challenges and secrets of the protagonist's quest."</data>
+  <data key="d2">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+</node>
+<node id="&quot;洞孔&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"A hole in the cliff where the sword's shadow is cast, revealing the magical properties of the sword and the secrets of the legendary swordsmen."</data>
+  <data key="d2">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+</node>
+<node id="&quot;岩石&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"A large rock where the protagonist attempts to push against the weight, symbolizing the physical and mental challenges of mastering wuxia and the unknown intelligence."</data>
+  <data key="d2">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+</node>
+<node id="&quot;QIAN JIN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Qian Jin is a character describing the interaction with the rock and cave, showing determination and curiosity."</data>
+  <data key="d2">chunk-d50d2223e66470e2e79e25e079a9ad55</data>
+</node>
+<node id="&quot;ROCK&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"A large stone placed on a smaller rock, indicating a natural or human-made structure."</data>
+  <data key="d2">chunk-d50d2223e66470e2e79e25e079a9ad55</data>
+</node>
+<node id="&quot;CAVE&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"The location where Qian Jin interacts with the rock and the door, suggesting a hidden or mysterious space."</data>
+  <data key="d2">chunk-d50d2223e66470e2e79e25e079a9ad55</data>
+</node>
+<node id="&quot;DOOR&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The door in the cave is part of the action, with a ring and a mirror, indicating a significant element in the story."</data>
+  <data key="d2">chunk-d50d2223e66470e2e79e25e079a9ad55</data>
+</node>
+<node id="&quot;JIA JUN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Jia Jun is a man trying to communicate with a jade statue, facing a dilemma of whether to proceed with the interaction."&gt;</data>
+  <data key="d2">chunk-de5b06106b2023bc9c57d5ba6c5e0a21</data>
+</node>
+<node id="&quot;ZHAN YUXI&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Zhan Yuxi is the protagonist who interacts with the statue and the mysterious intelligence, showing devotion and a desire to fulfill the statue's commands."</data>
+  <data key="d2">chunk-e759c7e97e70d02dee1f13c731e289ce</data>
+</node>
+<node id="&quot;XIAOYAOZI&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Xiaoyaozi is the mysterious figure described in the text, who writes its own rules and communicates with the protagonist."</data>
+  <data key="d2">chunk-e759c7e97e70d02dee1f13c731e289ce</data>
+</node>
+<node id="&quot;QIUXIAMEI&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Qiuxiamei is the sister of Xiaoyaozi, mentioned as a figure in the stone chamber, and is described as a divine being with snow-like skin."</data>
+  <data key="d2">chunk-e759c7e97e70d02dee1f13c731e289ce</data>
+</node>
+<node id="&quot;石室&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"The stone chamber where the statue is located, described as a place of mystical significance."</data>
+  <data key="d2">chunk-e759c7e97e70d02dee1f13c731e289ce</data>
+</node>
+<node id="&quot;神仙姊姊&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"神仙姊姊是传授北冥神功和凌波微步的导师，其教诲蕴含哲学思考，揭示自然规律与人体经络的关联。"</data>
+  <data key="d2">chunk-05a895c63dcd6d56ace57b2dbd627f9e</data>
+</node>
+<node id="&quot;北冥神功&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"北冥神功是通过调动人体经络内力的武功，强调顺应自然规律而非强行控制，其核心在于"自少商至云门"的练法，体现道家思想。"</data>
+  <data key="d2">chunk-05a895c63dcd6d56ace57b2dbd627f9e</data>
+</node>
+<node id="&quot;凌波微步&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"凌波微步是配合北冥神功的步法，通过绿线指示的经络穴位进行内力调动，象征顺应自然、以柔克刚的哲学理念。"</data>
+  <data key="d2">chunk-05a895c63dcd6d56ace57b2dbd627f9e</data>
+</node>
+<node id="&quot;ZHAN ZILONG&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Zhan Zilong is the protagonist of the story, a martial artist and scholar who encounters an unknown intelligence and engages in a complex chess game to survive and understand the world."</data>
+  <data key="d2">chunk-7042d44b19adbb4a1e427845c77603c5</data>
+</node>
+<node id="&quot;MONK&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The monk is a character who shares a mysterious connection with the chessboard and the unknown intelligence, symbolizing a deeper cosmic mystery."</data>
+  <data key="d2">chunk-7042d44b19adbb4a1e427845c77603c5</data>
+</node>
+<node id="&quot;MONK'S WIFE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The monk's wife is a character who interacts with the chessboard and the unknown intelligence, representing the emotional and philosophical depth of the story."</data>
+  <data key="d2">chunk-7042d44b19adbb4a1e427845c77603c5</data>
+</node>
+<node id="&quot;RESONANT CHESSBOARD&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The Resonant Chessboard is a complex and intricate chessboard that represents the unknown intelligence's rules and the protagonist's struggle to understand and survive."</data>
+  <data key="d2">chunk-7042d44b19adbb4a1e427845c77603c5</data>
+</node>
+<node id="&quot;THE DIVINE SAGE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The divine sage is the mysterious figure who creates the 'Zhenlong' and guides Segun through the mystical realm."</data>
+  <data key="d2">chunk-51658fe07ba5c49537fa4c95c6400bf4</data>
+</node>
+<node id="&quot;LÁNG HUÀN FÚ DÌ&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Láng Huàn Fú Dì is a vast stone chamber containing ancient martial arts texts, which are missing, and is the site of Segun's quest."</data>
+  <data key="d2">chunk-51658fe07ba5c49537fa4c95c6400bf4</data>
+</node>
+<node id="&quot;LÁN CĀNG JIĀNG&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Lán Cāng Jiāng is a mighty river where Segun must cross, symbolizing the challenge of navigating the mystical realm."</data>
+  <data key="d2">chunk-51658fe07ba5c49537fa4c95c6400bf4</data>
+</node>
+<node id="&quot;SHÍ SHÌ&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Shí Shì is a stone room within Láng Huàn Fú Dì where Segun encounters the divine sage and begins his journey."</data>
+  <data key="d2">chunk-51658fe07ba5c49537fa4c95c6400bf4</data>
+</node>
+<node id="&quot;钟姑娘&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"钟姑娘是钟灵的妹妹，负责通报消息，最终救下段誉。"</data>
+  <data key="d2">chunk-ddb3db3fcce8d0b4ddea809d94933571</data>
+</node>
+<node id="&quot;善人渡&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"善人渡是铁索桥的名称，位于江边，是段誉穿越险境的关键地点。"</data>
+  <data key="d2">chunk-ddb3db3fcce8d0b4ddea809d94933571</data>
+</node>
+<node id="&quot;万劫谷&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"万劫谷是段誉遭遇的险境之地，包含铁索桥、九字石刻等元素，是故事的核心场景。"</data>
+  <data key="d2">chunk-ddb3db3fcce8d0b4ddea809d94933571</data>
+</node>
+<node id="&quot;江&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"江是善人渡的所在地，铁索桥横跨其上，是段誉穿越的重要地理标志。"</data>
+  <data key="d2">chunk-ddb3db3fcce8d0b4ddea809d94933571</data>
+</node>
+<node id="&quot;钟夫人&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"钟夫人 is a character who is involved in the story, with a complex relationship to the other characters."&lt;SEP&gt;"钟夫人是段誉的母亲，她向段誉借马，并要求他向父亲请求帮助。"&lt;SEP&gt;"钟夫人是钟万仇的妻子，她对段誉有情感上的牵挂，同时也在寻求解脱。"&lt;SEP&gt;"钟夫人是钟万仇的妻子，对段誉充满感情，最终选择前去救段誉。"</data>
+  <data key="d2">chunk-ba2222d48105cae142ebbd362ed41cc9&lt;SEP&gt;chunk-3232be15b68516bd0673704c90b5ff92&lt;SEP&gt;chunk-c50011b20c2ee043f8f12d02d25cf938&lt;SEP&gt;chunk-5e050a28ccd170106cbe5386fddea1d5</data>
+</node>
+<node id="&quot;钟万仇&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"钟万仇 is a character who is involved in the story, with a complex relationship to the other characters."&lt;SEP&gt;"钟万仇是段誉的父亲，他被钟夫人要求去救女儿。"&lt;SEP&gt;"钟万仇是段誉的父亲，性格暴躁，因仇恨段誉而迁怒于所有姓段之人。"&lt;SEP&gt;"钟万仇是钟夫人的丈夫，他因无法控制自己而感到内疚，试图安抚妻子。"</data>
+  <data key="d2">chunk-ba2222d48105cae142ebbd362ed41cc9&lt;SEP&gt;chunk-3232be15b68516bd0673704c90b5ff92&lt;SEP&gt;chunk-c50011b20c2ee043f8f12d02d25cf938&lt;SEP&gt;chunk-5e050a28ccd170106cbe5386fddea1d5</data>
+</node>
+<node id="&quot;阿宝&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"阿宝是钟夫人提到的另一个夫人的名字，她对段誉有情感上的牵挂，但最终选择自尽。"</data>
+  <data key="d2">chunk-c50011b20c2ee043f8f12d02d25cf938</data>
+</node>
+<node id="&quot;钟谷主&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"钟谷主是钟万仇的部下，负责管理钟家谷，是故事中的重要组织实体。"</data>
+  <data key="d2">chunk-3232be15b68516bd0673704c90b5ff92</data>
+</node>
+<node id="&quot;大理&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"大理是故事发生的主要地点，段誉需要前往此处。"&lt;SEP&gt;"大理是故事发生的主要地点，钟万仇的家，也是段誉的故乡。"&lt;SEP&gt;"大理是段誉所在的地点，被黑衣女郎的行动所影响。"</data>
+  <data key="d2">chunk-ba2222d48105cae142ebbd362ed41cc9&lt;SEP&gt;chunk-3232be15b68516bd0673704c90b5ff92&lt;SEP&gt;chunk-0f2f867906a687ef5b12ded952687685</data>
+</node>
+<node id="&quot;树洞&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"树洞 is a location where the events occur, and it's a significant part of the story."</data>
+  <data key="d2">chunk-5e050a28ccd170106cbe5386fddea1d5</data>
+</node>
+<node id="&quot;ZHONG WAN CHOU&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Zhong Wan Chou is a title holder and a key figure in the story, representing a powerful martial artist and a husband to Zhong Bai, whose actions and decisions drive the narrative."</data>
+  <data key="d2">chunk-e1cee534b89bc93c9ae26e26feb6e2d6</data>
+</node>
+<node id="&quot;ZHONG BAI&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Zhong Bai is Zhong Wan Chou's wife, a warrior and strategist who seeks to save their daughter by confronting the unknown intelligence, embodying the themes of loyalty and sacrifice."</data>
+  <data key="d2">chunk-e1cee534b89bc93c9ae26e26feb6e2d6</data>
+</node>
+<node id="&quot;SHI KONG XUAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Shi Kong Xuan is a character who communicates with the unknown intelligence, representing the external force challenging the protagonists' understanding of control and order."</data>
+  <data key="d2">chunk-e1cee534b89bc93c9ae26e26feb6e2d6</data>
+</node>
+<node id="&quot;THE EARTH&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"The Earth is the setting of the story, a fictional realm where the protagonists face an unknown intelligence, symbolizing the boundary between the known and the unknown."</data>
+  <data key="d2">chunk-e1cee534b89bc93c9ae26e26feb6e2d6</data>
+</node>
+<node id="&quot;陈真&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"陈真是段誉的助手，帮助他完成任务。"</data>
+  <data key="d2">chunk-ba2222d48105cae142ebbd362ed41cc9</data>
+</node>
+<node id="&quot;来福儿&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"来福儿是钟夫人的仆人，负责借马。"</data>
+  <data key="d2">chunk-ba2222d48105cae142ebbd362ed41cc9</data>
+</node>
+<node id="&quot;XIAO BI&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Xiao Bi is a companion of段誉, assisting in the mission to rescue the black rose and navigating the dangers of the unknown."</data>
+  <data key="d2">chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+</node>
+<node id="&quot;THE TWO BIG MEN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The two big men are formidable opponents pursuing the black rose, demonstrating skill and determination in a battle against an unknown intelligence."</data>
+  <data key="d2">chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+</node>
+<node id="&quot;THE OLD MAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The old man is a strategist who offers a tactical solution to段誉, suggesting a cautious approach to the rescue mission."</data>
+  <data key="d2">chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+</node>
+<node id="&quot;THE OWNER OF THE BLACK ROSE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The owner of the black rose is a mysterious figure whose presence is central to the conflict, representing a threat to段誉's mission."</data>
+  <data key="d2">chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+</node>
+<node id="&quot;DALI&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Dali is the destination of the mission, a place where the story takes place, and where the struggle for the black rose unfolds."</data>
+  <data key="d2">chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+</node>
+<node id="&quot;THE BLACK ROSE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The black rose is a magical object with the ability to communicate with an unknown intelligence, symbolizing the key to unlocking a cosmic mystery and the central conflict of the story."</data>
+  <data key="d2">chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+</node>
+<node id="&quot;ZHANG LIANG&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Zhang Liang is a character in the story, a monk, and a key figure in the confrontation with the old woman and the kingdom's forces."</data>
+  <data key="d2">chunk-c6d9399b392f32f77eb7d63244e677fc</data>
+</node>
+<node id="&quot;RUI PU&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Rui Pu is a senior official in the kingdom, part of the ruling class, and the central figure in the conflict with the group."</data>
+  <data key="d2">chunk-c6d9399b392f32f77eb7d63244e677fc</data>
+</node>
+<node id="&quot;THE COURTYARD&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"The Courtyard is a central location in the story, surrounded by roses and featuring the confrontation between the group and the kingdom's forces."</data>
+  <data key="d2">chunk-c6d9399b392f32f77eb7d63244e677fc</data>
+</node>
+<node id="&quot;THE HALL&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"The Hall is a significant location within the kingdom, where the group engages in dialogue and confrontation with the old woman and the soldiers."</data>
+  <data key="d2">chunk-c6d9399b392f32f77eb7d63244e677fc</data>
+</node>
+<node id="&quot;THE KINGDOM&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Kingdom is the ruling class in the story, governed by Rui Pu, and the central conflict involves the group's attempt to communicate with the unknown intelligence."</data>
+  <data key="d2">chunk-c6d9399b392f32f77eb7d63244e677fc</data>
+</node>
+<node id="&quot;瑞婆婆&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"瑞婆婆是段誉的师父，与平婆婆、黑衣女郎发生冲突，试图阻止黑衣女郎的行动。"</data>
+  <data key="d2">chunk-0f2f867906a687ef5b12ded952687685</data>
+</node>
+<node id="&quot;平婆婆&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"平婆婆是位冷峻的女性，手持短刀，对老者实施攻击，展现强硬的武力威慑。她与黑衣女郎的冲突中占据主导地位。"&lt;SEP&gt;"平婆婆是瑞婆婆的弟子，与黑衣女郎发生冲突，试图阻止其行动。"</data>
+  <data key="d2">chunk-3ff80f7b68bc3451bf680d303f1fc015&lt;SEP&gt;chunk-0f2f867906a687ef5b12ded952687685</data>
+</node>
+<node id="&quot;黑衣女郎&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"黑衣女郎 is a character in the story, interacting with段誉 and the enemy."&lt;SEP&gt;"黑衣女郎是主要反派角色，与瑞婆婆、平婆婆发生冲突，试图逃脱并对抗段誉。"&lt;SEP&gt;"黑衣女郎是主要反派角色，对老者实施暴力攻击，推动事件发展。她与平婆婆的冲突中占据主导地位，但最终被段誉击败。"&lt;SEP&gt;"黑衣女郎是女角色的同伴，被女角色命令拉下面罩，暗示其与未知智能体的关联。"</data>
+  <data key="d2">chunk-3ff80f7b68bc3451bf680d303f1fc015&lt;SEP&gt;chunk-064024d7ed321aa8b378e97bd5ddf5ff&lt;SEP&gt;chunk-929024d7c00e534c27f8b8317cba64bc&lt;SEP&gt;chunk-0f2f867906a687ef5b12ded952687685</data>
+</node>
+<node id="&quot;祝老头&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"祝老头是黑衣女郎的师父，被黑衣女郎驱逐，与黑衣女郎有敌对关系。"</data>
+  <data key="d2">chunk-0f2f867906a687ef5b12ded952687685</data>
+</node>
+<node id="&quot;无量山&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"无量山是故事核心地点，段誉与干光豪在此展开冲突，象征着人类与未知智能体的对抗。"&lt;SEP&gt;"无量山是段誉最终目的地，象征着生死抉择的地点，充满传奇色彩。"&lt;SEP&gt;"无量山是钟姑娘所在的地点，被黑衣女郎的行动所影响。"</data>
+  <data key="d2">chunk-dd997cbcd5a121e3e43d73fa6084fbac&lt;SEP&gt;chunk-aacc28ee7e102eeb0aac0ac8b9b947f7&lt;SEP&gt;chunk-0f2f867906a687ef5b12ded952687685</data>
+</node>
+<node id="&quot;苏州&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"苏州是黑衣女郎提及的地点，与大理、无量山形成地理关联。"</data>
+  <data key="d2">chunk-0f2f867906a687ef5b12ded952687685</data>
+</node>
+<node id="&quot;金钿小盒&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"金钿小盒是段誉持有的物品，与钟姑娘的生死存亡相关。"</data>
+  <data key="d2">chunk-0f2f867906a687ef5b12ded952687685</data>
+</node>
+<node id="&quot;祝老爷子&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"祝老爷子是年迈的老人，被黑衣女郎攻击并致死。他与平婆婆的冲突中处于被动地位，但其死亡加剧了局势的紧张。"</data>
+  <data key="d2">chunk-3ff80f7b68bc3451bf680d303f1fc015</data>
+</node>
+<node id="&quot;大理城&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"大理城是故事发生的主要地点，老者在此被攻击，事件在该城展开。"</data>
+  <data key="d2">chunk-3ff80f7b68bc3451bf680d303f1fc015</data>
+</node>
+<node id="&quot;厅&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"厅是冲突发生的场所，平婆婆与黑衣女郎在此展开激烈对抗。"</data>
+  <data key="d2">chunk-3ff80f7b68bc3451bf680d303f1fc015</data>
+</node>
+<node id="&quot;黑玫瑰&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"黑玫瑰 is a character in the story, chasing段誉 and the enemy."&lt;SEP&gt;"黑玫瑰 is a female warrior in the story, who engages in a battle with段誉 and eventually helps him escape."&lt;SEP&gt;"黑玫瑰是神秘的魔法生物，能快速奔跑，被段誉视为重要伙伴，象征力量与神秘。"</data>
+  <data key="d2">chunk-d4201f5703017f87fd8ab36135f67ed5&lt;SEP&gt;chunk-064024d7ed321aa8b378e97bd5ddf5ff&lt;SEP&gt;chunk-aacc28ee7e102eeb0aac0ac8b9b947f7</data>
+</node>
+<node id="&quot;敌人&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The enemy is a character in the story, opposing段誉 and 黑玫瑰."</data>
+  <data key="d2">chunk-064024d7ed321aa8b378e97bd5ddf5ff</data>
+</node>
+<node id="&quot;小溪&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"小溪 is a narrow stream where the female warrior helps段誉 escape."</data>
+  <data key="d2">chunk-d4201f5703017f87fd8ab36135f67ed5</data>
+</node>
+<node id="&quot;树&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"树 is a tree where the female warrior uses a branch to strike段誉."</data>
+  <data key="d2">chunk-d4201f5703017f87fd8ab36135f67ed5</data>
+</node>
+<node id="&quot;BATTLE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The battle between段誉 and the female warrior is a key event in the story."</data>
+  <data key="d2">chunk-d4201f5703017f87fd8ab36135f67ed5</data>
+</node>
+<node id="&quot;那女郎&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"那女郎是敌对角色，试图杀害段誉，并以剑锋威胁，展现强势与冷酷。"</data>
+  <data key="d2">chunk-aacc28ee7e102eeb0aac0ac8b9b947f7</data>
+</node>
+<node id="&quot;澜沧江畔&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"澜沧江畔是故事发生的主要地理环境，荒凉且充满危险，为战斗提供背景。"</data>
+  <data key="d2">chunk-aacc28ee7e102eeb0aac0ac8b9b947f7</data>
+</node>
+<node id="&quot;澜沧江&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"澜沧江是故事发生地，贯穿整个情节，成为段誉与干光豪相遇的关键地理节点。"</data>
+  <data key="d2">chunk-dd997cbcd5a121e3e43d73fa6084fbac</data>
+</node>
+<node id="&quot;葛光佩&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"葛光佩是段誉的同伴，参与讨论未知智能体的沟通，表现出对未知的敬畏与好奇。"</data>
+  <data key="d2">chunk-929024d7c00e534c27f8b8317cba64bc</data>
+</node>
+<node id="&quot;女角色&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"女角色是故事中的关键人物，与段誉和葛光佩互动，其言行体现对未知的探索与挑战。"</data>
+  <data key="d2">chunk-929024d7c00e534c27f8b8317cba64bc</data>
+</node>
+<node id="&quot;CAO DI&quot;">
+  <data key="d2">chunk-997dbd2d207ce50d8b8382c5bdcebd41</data>
+  <data key="d1">"Cao Di aids Gong Guang Jie in the fight, demonstrating its role in the scenario."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;SHEN NONG GANG&quot;">
+  <data key="d2">chunk-997dbd2d207ce50d8b8382c5bdcebd41</data>
+  <data key="d1">"Left Zi Mu's actions relate to Shen Nong Gang's historical context and mission."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;GIRL&quot;">
+  <data key="d2">chunk-4364ff9650e94cacf968a26b5f08e8a6</data>
+  <data key="d1">"The girl and Left Zimu interact, with the girl seeking information and Left Zimu reflecting on past conflicts."&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;SHEN NONG BANG&quot;">
+  <data key="d2">chunk-4364ff9650e94cacf968a26b5f08e8a6</data>
+  <data key="d1">"The girl is part of the Shen Nong Bang organization, seeking information and engaging with Left Zimu."&gt;</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;GEO&quot;">
+  <data key="d2">chunk-923dcd068bac0210535287573cdcafd0</data>
+  <data key="d1">"Wuma Mountain serves as a geographical location where the protagonist's journey takes place, symbolizing the backdrop of their exploration and the unknown intelligence's influence."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;NIAN GONG&quot;">
+  <data key="d2">chunk-352f763cf2bb67326bfd678d7aec09be</data>
+  <data key="d1">"The monk is escaping from the Nian Gong, a deity that poses a challenge to his journey."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;ZHEN TIANLONG&quot;">
+  <data key="d2">chunk-352f763cf2bb67326bfd678d7aec09be</data>
+  <data key="d1">"The monk is escaping from the Nian Gong, a deity that poses a challenge to his journey."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;SHAN SHUI&quot;">
+  <data key="d2">chunk-352f763cf2bb67326bfd678d7aec09be</data>
+  <data key="d1">"The monk moves through the Shan Shui, navigating the natural landscape as part of his journey."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;LAKE&quot;">
+  <data key="d2">chunk-df15f357c382b396a7c045d30dd01121</data>
+  <data key="d1">"Segun is observing the moon and its reflection in the lake."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;MIRROR&quot;">
+  <data key="d2">chunk-d50d2223e66470e2e79e25e079a9ad55</data>
+  <data key="d1">"The mirror is part of the door, indicating its significance in the event."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;STONE ROOM&quot;">
+  <data key="d2">chunk-de5b06106b2023bc9c57d5ba6c5e0a21</data>
+  <data key="d1">"Jia Jun is located in the stone room, which is a key location for the interaction."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;THE JADE STATUE&quot;">
+  <data key="d2">chunk-de5b06106b2023bc9c57d5ba6c5e0a21</data>
+  <data key="d1">"The jade statue is located in the stone room, which is a crucial setting for the interaction."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;事件&quot;">
+  <data key="d2">chunk-e759c7e97e70d02dee1f13c731e289ce</data>
+  <data key="d1">"The event of kneeling and offering one's life to the statue is a pivotal moment in the story, demonstrating Zhan Yuxi's devotion and the statue's influence."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;铁索桥&quot;">
+  <data key="d2">chunk-ddb3db3fcce8d0b4ddea809d94933571</data>
+  <data key="d1">"铁索桥横跨江面，是段誉穿越险境的关键地理设施。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;LADY ZHONG FU&quot;">
+  <data key="d2">chunk-4acc2b6d7e014bb5ac688df7766fa918</data>
+  <data key="d1">"The lady is the mother of Zhong Ling, and her role is central to the plot's development."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;MISSION&quot;">
+  <data key="d2">chunk-4acc2b6d7e014bb5ac688df7766fa918</data>
+  <data key="d1">"The lady is involved in the mission, which involves uncovering the truth about the mysterious intelligence and the protagonist's role."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;THE GROUP&quot;">
+  <data key="d2">chunk-c6d9399b392f32f77eb7d63244e677fc</data>
+  <data key="d1">"The group is part of the kingdom's forces, engaged in a confrontation to challenge the kingdom's rule and seek communication with the unknown intelligence."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;ZHAN YU&quot;">
+  <data key="d2">chunk-4b9de5625c3048ba65aa8f8f5a7f5a69</data>
+  <data key="d1">"Zhan Yu is part of the team attempting first contact with the unknown intelligence."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;TANG FEI&quot;">
+  <data key="d2">chunk-4b9de5625c3048ba65aa8f8f5a7f5a69</data>
+  <data key="d1">"Tang Fei is part of the team attempting first contact with the unknown intelligence."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;PING PU&quot;">
+  <data key="d2">chunk-4b9de5625c3048ba65aa8f8f5a7f5a69</data>
+  <data key="d1">"Ping Pu is part of the team attempting first contact with the unknown intelligence."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;THE INTERVAL&quot;">
+  <data key="d2">chunk-4b9de5625c3048ba65aa8f8f5a7f5a69</data>
+  <data key="d1">"The Interval is the location where the First Contact occurs, involving communication with an unknown intelligence."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;EVENT&quot;">
+  <data key="d2">chunk-dd997cbcd5a121e3e43d73fa6084fbac</data>
+  <data key="d1">"澜沧江作为地理环境，为事件的发生提供了背景，其特征影响人物互动。"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;市镇&quot;">
+  <data key="d2">chunk-36ab0e40618f2d7e09952a8b8d3d47ab</data>
+  <data key="d1">"无量剑 is a martial arts organization operating in the市镇, directly involved in the key events and conflicts."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<edge source="&quot;LEFT ZIMU&quot;" target="&quot;GIRL&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The girl and Left Zimu interact, with the girl seeking information and Left Zimu reflecting on past conflicts."&gt;</data>
+  <data key="d5">chunk-4364ff9650e94cacf968a26b5f08e8a6</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;WESTERN MASTER&quot;" target="&quot;YOUNG MASTER&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The Western Master invites the Young Master to the Sword Lake Palace, where the Young Master demonstrates their martial skills."</data>
+  <data key="d5">chunk-92c184f9baee8a9eb1df28da52a57511</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;WESTERN MASTER&quot;" target="&quot;SWORD LAKE PALACE&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The Western Master hosts the Sword Lake Palace sword fight, where the Young Master competes against the East宗's champion."</data>
+  <data key="d5">chunk-92c184f9baee8a9eb1df28da52a57511</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;YOUNG MASTER&quot;" target="&quot;SWORD LAKE PALACE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The Young Master is invited to the Sword Lake Palace by the Western Master to participate in the sword fight."</data>
+  <data key="d5">chunk-92c184f9baee8a9eb1df28da52a57511</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;GUEST&quot;" target="&quot;SWORD LAKE PALACE&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"The guest is invited to the Sword Lake Palace by the Western Master to observe the sword fight."</data>
+  <data key="d5">chunk-92c184f9baee8a9eb1df28da52a57511</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;LEFT&quot;" target="&quot;SEGMENT&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Left and Segment engage in a confrontation, with Left's frustration and Segment's humorous dismissal of control forming the basis of their interaction."</data>
+  <data key="d5">chunk-a7936fe516b63d5a11e0ce7f490084f1</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;LEFT&quot;" target="&quot;GONG GUANG JIE&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Left's arrogance is challenged by Gong Guang Jie, leading to a duel where Left's perceived superiority is questioned."</data>
+  <data key="d5">chunk-a7936fe516b63d5a11e0ce7f490084f1</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;SEGMENT&quot;" target="&quot;WUMING WEST CLAN&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Segment is part of Wuming West Clan, which is central to the martial arts philosophy and the conflict with modern challenges."</data>
+  <data key="d5">chunk-a7936fe516b63d5a11e0ce7f490084f1</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;GONG GUANG JIE&quot;" target="&quot;WUMING WEST CLAN&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Gong Guang Jie is part of Wuming West Clan, representing the traditional martial arts philosophy and the conflict with modern challenges."</data>
+  <data key="d5">chunk-a7936fe516b63d5a11e0ce7f490084f1</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;GONG GUANG JIE&quot;" target="&quot;LEFT ZI MU&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Left Zi Mu and Gong Guang Jie engage in a fight, showcasing their skill and determination."</data>
+  <data key="d5">chunk-997dbd2d207ce50d8b8382c5bdcebd41</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;龚光杰&quot;" target="&quot;段誉&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"龚光杰 hits段誉, leading to a fight and段誉's defeat."</data>
+  <data key="d5">chunk-06fbe60123ff5a483fe9e17c7b6c233e</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;龚光杰&quot;" target="&quot;少女&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The girl is directly engaged in the battle with龚光杰, showcasing her combat skills and the intensity of the conflict."</data>
+  <data key="d5">chunk-6012194fc2a785faffa8971241ec2073</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;马五德&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"马五德 rescues段誉, showing compassion and helping him."&gt;</data>
+  <data key="d5">chunk-06fbe60123ff5a483fe9e17c7b6c233e</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;左子穆&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"左子穆 challenges段誉, wanting to teach him martial arts and test his skills."&gt;</data>
+  <data key="d5">chunk-06fbe60123ff5a483fe9e17c7b6c233e</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;FIRST CONTACT&quot;">
+  <data key="d3">55.0</data>
+  <data key="d4">"The protagonist is leading the team that might be making the First Contact with the unknown intelligence."&lt;SEP&gt;"段誉与少女对话，探讨神农帮的威胁，并参与后续的应对策略，是First Contact事件的关键人物。"&lt;SEP&gt;"段誉是First Contact的领导者，负责与未知智能体进行首次接触。"&lt;SEP&gt;"段誉是首次接触事件的核心人物，面临身体损伤和情感挑战。"&lt;SEP&gt;"段誉是首次接触未知智能体的领导者，其行动直接关联事件的发起。"&lt;SEP&gt;"段誉领导团队执行First Contact，负责解药和通信。"</data>
+  <data key="d5">chunk-ba2222d48105cae142ebbd362ed41cc9&lt;SEP&gt;chunk-d7d52f2751f82971bd2856d671d95ae4&lt;SEP&gt;chunk-4e443a0728e932dfbe5d098640df1cd2&lt;SEP&gt;chunk-4512cfc06d43cc28ac2d1c323ab9487b&lt;SEP&gt;chunk-dd997cbcd5a121e3e43d73fa6084fbac&lt;SEP&gt;chunk-4e05afb7d44a061e7b569b28b32db7ed</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;HUMANITY'S RESPONSE&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"The protagonist and his team are the key figures in Humanity's Response to the unknown intelligence."&lt;SEP&gt;"段誉的团队是事件的执行者，其生存挣扎与事件的展开紧密相连。"</data>
+  <data key="d5">chunk-4512cfc06d43cc28ac2d1c323ab9487b&lt;SEP&gt;chunk-dd997cbcd5a121e3e43d73fa6084fbac</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;钟灵&quot;">
+  <data key="d3">13.0</data>
+  <data key="d4">"The sister teaches the protagonist about the One Yang Fist, challenging his initial reluctance to learn the martial arts."&lt;SEP&gt;"段誉 and 钟灵 are involved in a critical chase and confrontation, showcasing their dynamic interactions and the stakes of the situation."</data>
+  <data key="d5">chunk-36ab0e40618f2d7e09952a8b8d3d47ab&lt;SEP&gt;chunk-4512cfc06d43cc28ac2d1c323ab9487b</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;血月&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"段誉在血月背景下经历战斗和情感冲突，血月是事件的核心要素。"</data>
+  <data key="d5">chunk-4e443a0728e932dfbe5d098640df1cd2</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;神农帮&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"段誉是神农帮弟子，受业于孟述圣，专研易理，与未知智能展开首次接触。"</data>
+  <data key="d5">chunk-8afc427c4cc929f6a6e369a8d408596d</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;无量剑&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"段誉目睹无量剑成员惨死，欲劝解双方恩怨，但遭司空玄拒绝。"</data>
+  <data key="d5">chunk-8afc427c4cc929f6a6e369a8d408596d</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;第一接触&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"段誉 leads the team that might be making the First Contact with the unknown intelligence."</data>
+  <data key="d5">chunk-a4615ba3e3ee41f8b04c0e66d2d3cbce</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;人类的回应&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"段誉 and his team are the key figures in Humanity's Response to the unknown intelligence."</data>
+  <data key="d5">chunk-a4615ba3e3ee41f8b04c0e66d2d3cbce</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;神仙姊姊&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"段誉聆听神仙姊姊的教诲，领悟北冥神功与凌波微步的奥义，二者相辅相成，体现道家"顺应自然"的哲学思想。"</data>
+  <data key="d5">chunk-05a895c63dcd6d56ace57b2dbd627f9e</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;北冥神功&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"段誉通过观察画中裸女和绿线，理解北冥神功的内力调动原理，其核心是"自少商至云门"的练法，体现道家"以静制动"的修炼理念。"</data>
+  <data key="d5">chunk-05a895c63dcd6d56ace57b2dbd627f9e</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;凌波微步&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"段誉学习凌波微步的步法，需配合北冥神功的内力调动，二者共同构成完整的武功体系，体现道家"天人合一"的哲学思想。"</data>
+  <data key="d5">chunk-05a895c63dcd6d56ace57b2dbd627f9e</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;万劫谷&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"段誉在万劫谷中经历险境，与钟灵、钟姑娘共同完成任务。"</data>
+  <data key="d5">chunk-ddb3db3fcce8d0b4ddea809d94933571</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;钟姑娘&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"段誉受钟姑娘之托，前往万劫谷报讯，是关键事件的关联者。"</data>
+  <data key="d5">chunk-ddb3db3fcce8d0b4ddea809d94933571</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;钟夫人&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"钟夫人对段誉有情感上的牵挂，但最终选择自尽，显示其复杂的情感。</data>
+  <data key="d5">chunk-c50011b20c2ee043f8f12d02d25cf938</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;钟万仇&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"段誉与钟万仇在讨论首次接触时表现出复杂的情感，钟万仇因无法控制自己而感到内疚。</data>
+  <data key="d5">chunk-c50011b20c2ee043f8f12d02d25cf938</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;THE TWO BIG MEN&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"段誉 is directly involved in the battle against the two big men, who are pursuing the black rose and challenging his leadership."</data>
+  <data key="d5">chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;THE OLD MAN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"段誉 seeks advice from the old man, who provides strategic insights to navigate the dangers of the mission."</data>
+  <data key="d5">chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;THE OWNER OF THE BLACK ROSE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"段誉's mission is to rescue the owner of the black rose, who is in danger and requires his intervention."</data>
+  <data key="d5">chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;瑞婆婆&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"段誉与瑞婆婆发生冲突，试图阻止黑衣女郎的行动。"</data>
+  <data key="d5">chunk-0f2f867906a687ef5b12ded952687685</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;平婆婆&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"段誉与平婆婆发生冲突，试图阻止黑衣女郎的行动。"</data>
+  <data key="d5">chunk-0f2f867906a687ef5b12ded952687685</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;黑玫瑰&quot;">
+  <data key="d3">24.0</data>
+  <data key="d4">"段誉 and 黑玫瑰 are in a fight, engaging in combat."&lt;SEP&gt;"段誉 and 黑玫瑰 engage in a battle, showing a direct confrontation and interaction."&lt;SEP&gt;"黑玫瑰是段誉的重要伙伴，助其突破困境，体现信任与协作。"</data>
+  <data key="d5">chunk-d4201f5703017f87fd8ab36135f67ed5&lt;SEP&gt;chunk-064024d7ed321aa8b378e97bd5ddf5ff&lt;SEP&gt;chunk-aacc28ee7e102eeb0aac0ac8b9b947f7</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;黑衣女郎&quot;">
+  <data key="d3">15.0</data>
+  <data key="d4">"段誉 and 黑衣女郎 are in a fight, engaging in combat."&lt;SEP&gt;"段誉 and 黑衣女郎 are part of the same group, involved in a pivotal escape and confrontation, demonstrating their strategic interactions."</data>
+  <data key="d5">chunk-36ab0e40618f2d7e09952a8b8d3d47ab&lt;SEP&gt;chunk-064024d7ed321aa8b378e97bd5ddf5ff</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;敌人&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"段誉 is fighting against the enemy, part of the battle."</data>
+  <data key="d5">chunk-064024d7ed321aa8b378e97bd5ddf5ff</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;小溪&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"段誉 is helped by the female warrior who leads him across the stream, indicating a supportive relationship."</data>
+  <data key="d5">chunk-d4201f5703017f87fd8ab36135f67ed5</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;树&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"段誉 is helped by the female warrior who uses a branch to strike him, indicating a supportive relationship."</data>
+  <data key="d5">chunk-d4201f5703017f87fd8ab36135f67ed5</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;那女郎&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"段誉与那女郎在战斗中交锋，展现对抗与决斗的紧张氛围。"</data>
+  <data key="d5">chunk-aacc28ee7e102eeb0aac0ac8b9b947f7</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;澜沧江畔&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"段誉在澜沧江畔战斗，地理环境影响其行动策略。"</data>
+  <data key="d5">chunk-aacc28ee7e102eeb0aac0ac8b9b947f7</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;无量山&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"段誉前往无量山与那女郎决斗，地理环境决定最终命运。"</data>
+  <data key="d5">chunk-aacc28ee7e102eeb0aac0ac8b9b947f7</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;干光豪&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"干光豪 and 段誉 are involved in a critical combat scenario, highlighting their roles in the story's climax."</data>
+  <data key="d5">chunk-36ab0e40618f2d7e09952a8b8d3d47ab</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;葛光佩&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"段誉与葛光佩在讨论未知智能体的沟通，体现团队协作与信任。"</data>
+  <data key="d5">chunk-929024d7c00e534c27f8b8317cba64bc</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;段誉&quot;" target="&quot;女角色&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"段誉与女角色在对话中展开互动，探讨未知智能体的特性。"</data>
+  <data key="d5">chunk-929024d7c00e534c27f8b8317cba64bc</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;左子穆&quot;" target="&quot;无量剑&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"左子穆 is the leader of the organization involved in the conflict, guiding the actions of the characters against the unknown intelligence."</data>
+  <data key="d5">chunk-6012194fc2a785faffa8971241ec2073</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;少女&quot;" target="&quot;双清道&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The location of the battle is where the girl engages in combat, highlighting the significance of the setting in the conflict."</data>
+  <data key="d5">chunk-6012194fc2a785faffa8971241ec2073</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;少女&quot;" target="&quot;无量剑&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"少女与无量剑的成员有直接互动，知晓信件中的毒药信息，暗示其与神农帮的关联。"</data>
+  <data key="d5">chunk-4e05afb7d44a061e7b569b28b32db7ed</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;无量剑&quot;" target="&quot;神农帮&quot;">
+  <data key="d3">11.0</data>
+  <data key="d4">"无量剑与神农帮有恩怨，段誉因目睹其成员惨死而欲劝解。"&lt;SEP&gt;"神农帮掌控无量剑的权限，但无量剑的成员在战斗中被击败，凸显其对神农帮的威胁。"</data>
+  <data key="d5">chunk-8afc427c4cc929f6a6e369a8d408596d&lt;SEP&gt;chunk-4e05afb7d44a061e7b569b28b32db7ed</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;无量剑&quot;" target="&quot;司空玄&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"司空玄对无量剑成员的惨死表示不满，欲与段誉化解恩怨。"</data>
+  <data key="d5">chunk-8afc427c4cc929f6a6e369a8d408596d</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;无量剑&quot;" target="&quot;市镇&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"无量剑 is a martial arts organization operating in the市镇, directly involved in the key events and conflicts."</data>
+  <data key="d5">chunk-36ab0e40618f2d7e09952a8b8d3d47ab</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;无量剑&quot;" target="&quot;黑衣女郎&quot;">
+  <data key="d3">4.0</data>
+  <data key="d4">"无量剑 is a group of warriors associated with 黑衣女郎, involved in the pivotal events and conflicts."</data>
+  <data key="d5">chunk-36ab0e40618f2d7e09952a8b8d3d47ab</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;干光豪&quot;" target="&quot;葛师妹&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"干光豪 and 葛师妹 engage in a fierce battle, showcasing their combat skills and the intensity of the conflict."&lt;SEP&gt;"干光豪与葛师妹同属东宗，共同经历剑湖事件，家族纽带紧密。"</data>
+  <data key="d5">chunk-36ab0e40618f2d7e09952a8b8d3d47ab&lt;SEP&gt;chunk-73e81947ba085538dfb2fd722b3f065f</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;干光豪&quot;" target="&quot;FIRST CONTACT&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"干光豪阻止段誉接触未知智能体，其行为与事件的推进形成对立关系。"</data>
+  <data key="d5">chunk-dd997cbcd5a121e3e43d73fa6084fbac</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;干光豪&quot;" target="&quot;HUMANITY'S RESPONSE&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"干光豪的宗门势力与事件的执行者形成对立，其行动影响事件的走向。"</data>
+  <data key="d5">chunk-dd997cbcd5a121e3e43d73fa6084fbac</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;神农帮&quot;" target="&quot; MONK&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"The monk is part of the神农帮, which is involved in the story's conflicts and moral dilemmas."</data>
+  <data key="d5">chunk-4512cfc06d43cc28ac2d1c323ab9487b</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;神农帮&quot;" target="&quot;钟灵&quot;">
+  <data key="d3">13.0</data>
+  <data key="d4">"钟灵是段誉的师兄，随行并协助应对未知智能，对段誉的劝说持保留态度。"&lt;SEP&gt;"钟灵是神农帮成员，参与帮内战斗，体现其与组织的关联性。"</data>
+  <data key="d5">chunk-8afc427c4cc929f6a6e369a8d408596d&lt;SEP&gt;chunk-067c9ef037d04fbaa1e846b53f8153ef</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;神农帮&quot;" target="&quot;司空玄&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"司空玄是神农帮帮主，对段誉的劝解持否定态度，后因段誉的言辞而有所动摇。"</data>
+  <data key="d5">chunk-8afc427c4cc929f6a6e369a8d408596d</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;神农帮&quot;" target="&quot;闪电貂&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"神农帮成员与闪电貂战斗，体现组织与敌人的对抗关系，强度为6。"</data>
+  <data key="d5">chunk-067c9ef037d04fbaa1e846b53f8153ef</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;LEFT ZI MU&quot;" target="&quot;CAO DI&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Cao Di aids Gong Guang Jie in the fight, demonstrating its role in the scenario."</data>
+  <data key="d5">chunk-997dbd2d207ce50d8b8382c5bdcebd41</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;LEFT ZI MU&quot;" target="&quot;SHEN NONG GANG&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Left Zi Mu's actions relate to Shen Nong Gang's historical context and mission."</data>
+  <data key="d5">chunk-997dbd2d207ce50d8b8382c5bdcebd41</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;WUMA MOUNTAIN&quot;" target="&quot;GEO&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"Wuma Mountain serves as a geographical location where the protagonist's journey takes place, symbolizing the backdrop of their exploration and the unknown intelligence's influence."</data>
+  <data key="d5">chunk-923dcd068bac0210535287573cdcafd0</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;MASTER ZONGLING&quot;" target="&quot;DUAN YU&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Master Zongling provides guidance and mentorship to Duan Yu, influencing his decisions and actions regarding the unknown intelligence."</data>
+  <data key="d5">chunk-923dcd068bac0210535287573cdcafd0</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;HUMANITY'S RESPONSE&quot;">
+  <data key="d3">31.0</data>
+  <data key="d4">"First Contact is the event that drives Humanity's Response, involving the characters."&lt;SEP&gt;"First Contact事件是 Humanity's Response的起点，两者共同构成人类与未知智能的互动。"&lt;SEP&gt;"The First Contact event is the catalyst for Humanity's Response, driving the protagonists' transformation and actions."&lt;SEP&gt;"The Humanity's Response is a direct result of the First Contact event, indicating a causal relationship."</data>
+  <data key="d5">chunk-4e05afb7d44a061e7b569b28b32db7ed&lt;SEP&gt;chunk-d4201f5703017f87fd8ab36135f67ed5&lt;SEP&gt;chunk-e1cee534b89bc93c9ae26e26feb6e2d6&lt;SEP&gt;chunk-997dbd2d207ce50d8b8382c5bdcebd41</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;DUAN YU&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Duan Yu's team is directly involved in the First Contact with the unknown intelligence, executing its evolved objectives and activities."</data>
+  <data key="d5">chunk-923dcd068bac0210535287573cdcafd0</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;ESCAPE FROM HOME&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"The Escape from Home is a precursor to the First Contact, highlighting the protagonist's journey and the context of his interactions with the unknown intelligence."</data>
+  <data key="d5">chunk-923dcd068bac0210535287573cdcafd0</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;钟灵&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"钟灵参与解药和通信的计划，是First Contact事件的关键人物。"&lt;SEP&gt;"钟灵是首次接触事件的直接参与者，负责战斗和情感互动。"</data>
+  <data key="d5">chunk-d7d52f2751f82971bd2856d671d95ae4&lt;SEP&gt;chunk-4e443a0728e932dfbe5d098640df1cd2</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;剑湖宫&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"剑湖宫是首次接触事件的发生地，段誉和钟灵在此进行关键互动。"</data>
+  <data key="d5">chunk-4e443a0728e932dfbe5d098640df1cd2</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;司空玄&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"司空玄安排救援，与段誉共同执行First Contact事件。"</data>
+  <data key="d5">chunk-d7d52f2751f82971bd2856d671d95ae4</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;VALLEY OF THE WEST&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Valley of the West是First Contact事件的发生地，包含解药和通信场景。"</data>
+  <data key="d5">chunk-d7d52f2751f82971bd2856d671d95ae4</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;MISSION&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The first contact is an event that the lady is part of, involving the protagonist's efforts to communicate with the mysterious intelligence."</data>
+  <data key="d5">chunk-4acc2b6d7e014bb5ac688df7766fa918</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;钟万仇&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"钟万仇与段誉讨论首次接触未知智能体，显示其重要性。</data>
+  <data key="d5">chunk-c50011b20c2ee043f8f12d02d25cf938</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;ZAN YU&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Zan Yu leads the team that might be making the First Contact with the unknown intelligence."</data>
+  <data key="d5">chunk-e1cee534b89bc93c9ae26e26feb6e2d6</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;SHI KONG XUAN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Shi Kong Xuan is the external force challenging the protagonists' understanding of control and order, directly influencing the First Contact event."</data>
+  <data key="d5">chunk-e1cee534b89bc93c9ae26e26feb6e2d6</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;来福儿&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"来福儿是First Contact的团队成员，负责借马。"</data>
+  <data key="d5">chunk-ba2222d48105cae142ebbd362ed41cc9</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;钟夫人&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"钟夫人是First Contact的参与者，她向段誉借马并要求帮助。"</data>
+  <data key="d5">chunk-ba2222d48105cae142ebbd362ed41cc9</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;THE GROUP&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"The group's attempt to communicate with the unknown intelligence is a pivotal event in the story, driven by their desire to escape the kingdom's oppressive rule."</data>
+  <data key="d5">chunk-c6d9399b392f32f77eb7d63244e677fc</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;ZHAN YU&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Zhan Yu is part of the team attempting first contact with the unknown intelligence."</data>
+  <data key="d5">chunk-4b9de5625c3048ba65aa8f8f5a7f5a69</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;TANG FEI&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Tang Fei is part of the team attempting first contact with the unknown intelligence."</data>
+  <data key="d5">chunk-4b9de5625c3048ba65aa8f8f5a7f5a69</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;PING PU&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Ping Pu is part of the team attempting first contact with the unknown intelligence."</data>
+  <data key="d5">chunk-4b9de5625c3048ba65aa8f8f5a7f5a69</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;THE INTERVAL&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The Interval is the location where the First Contact occurs, involving communication with an unknown intelligence."</data>
+  <data key="d5">chunk-4b9de5625c3048ba65aa8f8f5a7f5a69</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;FIRST CONTACT&quot;" target="&quot;BATTLE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The Battle is a key event in the First Contact, indicating a temporal relationship."</data>
+  <data key="d5">chunk-d4201f5703017f87fd8ab36135f67ed5</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;HUMANITY'S RESPONSE&quot;" target="&quot;DUAN YU&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Duan Yu and his team are the key figures in Humanity's Response to the unknown intelligence, representing their active participation in the cosmic message."</data>
+  <data key="d5">chunk-923dcd068bac0210535287573cdcafd0</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;钟灵&quot;" target="&quot;血月&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"钟灵与血月现象直接相关，血月是段誉战斗的背景环境。"</data>
+  <data key="d5">chunk-4e443a0728e932dfbe5d098640df1cd2</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;钟灵&quot;" target="&quot;司空玄&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"钟灵在战斗中与司空玄交手，展现勇气和战术智慧，关系强度为7。"</data>
+  <data key="d5">chunk-067c9ef037d04fbaa1e846b53f8153ef</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;钟灵&quot;" target="&quot;第一接触&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"钟灵's sacrifice and the protagonist's thoughts are intertwined, highlighting the emotional depth of the first contact."</data>
+  <data key="d5">chunk-a4615ba3e3ee41f8b04c0e66d2d3cbce</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;钟灵&quot;" target="&quot;善人渡&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"钟灵指引段誉过善人渡，是其重要行动。"</data>
+  <data key="d5">chunk-ddb3db3fcce8d0b4ddea809d94933571</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;司空玄&quot;" target="&quot;闪电貂&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"司空玄下令捕获闪电貂，显示其对敌人的敌意和战斗指挥能力。"</data>
+  <data key="d5">chunk-067c9ef037d04fbaa1e846b53f8153ef</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHONG LING&quot;" target="&quot;DUAN YU&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Zhong Ling and Duan Yu are in a confrontation, fighting against each other."</data>
+  <data key="d5">chunk-5d28876bdfd983fdc1e44a071ea9834b</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHONG LING&quot;" target="&quot;SI KONG XUAN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Zhong Ling and Si Kong Xuan are in a confrontation, fighting against each other."</data>
+  <data key="d5">chunk-5d28876bdfd983fdc1e44a071ea9834b</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHONG LING&quot;" target="&quot;SI KONG XIAN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Si Kong Xian and Zhong Ling are directly involved in the conflict, with Zhong Ling's truthfulness contrasting with Si Kong Xian's strategic thinking."</data>
+  <data key="d5">chunk-69a48050c1096bae07e7272f66db98c1</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHONG LING&quot;" target="&quot;LADY ZHONG FU&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The lady is the mother of Zhong Ling, and her role is central to the plot's development."</data>
+  <data key="d5">chunk-4acc2b6d7e014bb5ac688df7766fa918</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;SI KONG XIAN&quot;" target="&quot;ZAN YU&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Si Kong Xian and Zan Yu are in a confrontation, with Zan Yu's awe and anxiety adding to the tension of the situation."</data>
+  <data key="d5">chunk-69a48050c1096bae07e7272f66db98c1</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;第一接触&quot;" target="&quot;人类的回应&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"The First Contact is the initial event that triggers Humanity's Response, establishing the protagonist's mission."</data>
+  <data key="d5">chunk-a4615ba3e3ee41f8b04c0e66d2d3cbce</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;葛师妹&quot;" target="&quot;仙影&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"葛师妹的弟子持续焚香礼拜，祈求仙影再现，但未果，体现对仙影的执着。"</data>
+  <data key="d5">chunk-73e81947ba085538dfb2fd722b3f065f</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;东宗&quot;" target="&quot;西宗&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"东宗与西宗因剑湖事件对立，干光豪与葛师妹联合后合为一体，打破宗门对立。"</data>
+  <data key="d5">chunk-73e81947ba085538dfb2fd722b3f065f</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;剑湖&quot;" target="&quot;仙影&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"剑湖的仙影是剑湖事件的核心，弟子们祈求仙影再现，但始终未见。"</data>
+  <data key="d5">chunk-73e81947ba085538dfb2fd722b3f065f</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;SEGUN&quot;" target="&quot;LAKE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Segun is observing the moon and its reflection in the lake."</data>
+  <data key="d5">chunk-df15f357c382b396a7c045d30dd01121</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;SEGUN&quot;" target="&quot;父亲&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Segun's father is a supportive figure who encourages his son to pursue wuxia, reflecting the protagonist's personal growth and the cultural values of wuxia."</data>
+  <data key="d5">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;SEGUN&quot;" target="&quot;母亲&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Segun's mother supports his journey, understanding his passion for wuxia and the challenges he faces, highlighting the familial bonds and the protagonist's emotional journey."</data>
+  <data key="d5">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;SEGUN&quot;" target="&quot;伯父&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Segun's grandfather is a skilled wuxia practitioner who embodies the values of kindness and non-violence, contrasting with the protagonist's initial reluctance to engage in combat."</data>
+  <data key="d5">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;SEGUN&quot;" target="&quot;LÁNG HUÀN FÚ DÌ&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Segun is seeking the missing martial arts texts in Láng Huàn Fú Dì, which is the central location of his quest."</data>
+  <data key="d5">chunk-51658fe07ba5c49537fa4c95c6400bf4</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;SEGUN&quot;" target="&quot;SHÍ SHÌ&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Segun enters Shí Shì to meet the divine sage, marking the beginning of his journey through the mystical realm."</data>
+  <data key="d5">chunk-51658fe07ba5c49537fa4c95c6400bf4</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;剑&quot;" target="&quot;峭壁&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The sword is hidden in the cliff, where its magical properties are revealed through the interaction with moonlight and the cave, symbolizing the protagonist's quest to uncover the secrets of wuxia."</data>
+  <data key="d5">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;剑&quot;" target="&quot;断肠散&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The medicine causes emotional distress, which the protagonist avoids, highlighting the internal conflict between his desire to master wuxia and the personal sacrifices required."</data>
+  <data key="d5">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;湖&quot;" target="&quot;峭壁&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"The lake serves as a symbolic backdrop for the protagonist's journey, where the cliff and cave are located, representing the challenges and the discovery of the sword."</data>
+  <data key="d5">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;峭壁&quot;" target="&quot;洞孔&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"The cliff and the cave are connected, with the cave containing the sword's shadow and the moonlight illuminating it, revealing the magical properties of the sword."</data>
+  <data key="d5">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;洞孔&quot;" target="&quot;岩石&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The rock is positioned above the cave, where the sword's shadow is cast, symbolizing the physical and mental challenges of mastering wuxia and the unknown intelligence."</data>
+  <data key="d5">chunk-01429a200f6188d3e63d84dbe3103d40</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;QIAN JIN&quot;" target="&quot;CAVE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Qian Jin is in the cave, interacting with the rock and door, indicating his role in the event."</data>
+  <data key="d5">chunk-d50d2223e66470e2e79e25e079a9ad55</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;CAVE&quot;" target="&quot;DOOR&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The door is part of the cave, indicating its role in the event."</data>
+  <data key="d5">chunk-d50d2223e66470e2e79e25e079a9ad55</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;DOOR&quot;" target="&quot;MIRROR&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The mirror is part of the door, indicating its significance in the event."</data>
+  <data key="d5">chunk-d50d2223e66470e2e79e25e079a9ad55</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;JIA JUN&quot;" target="&quot;STONE ROOM&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Jia Jun is located in the stone room, which is a key location for the interaction."</data>
+  <data key="d5">chunk-de5b06106b2023bc9c57d5ba6c5e0a21</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHAN YUXI&quot;" target="&quot;石室&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Zhan Yuxi is located in the stone chamber, which is a significant location in the story."</data>
+  <data key="d5">chunk-e759c7e97e70d02dee1f13c731e289ce</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHAN YUXI&quot;" target="&quot;XIAOYAOZI&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Zhan Yuxi respects and obeys Xiaoyaozi, who is the mysterious figure in the stone chamber."</data>
+  <data key="d5">chunk-e759c7e97e70d02dee1f13c731e289ce</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHAN YUXI&quot;" target="&quot;QIUXIAMEI&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Zhan Yuxi is inspired by Qiuxiamei's divine qualities, leading him to kneel and offer his life."</data>
+  <data key="d5">chunk-e759c7e97e70d02dee1f13c731e289ce</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHAN YUXI&quot;" target="&quot;事件&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"The event of kneeling and offering one's life to the statue is a pivotal moment in the story, demonstrating Zhan Yuxi's devotion and the statue's influence."</data>
+  <data key="d5">chunk-e759c7e97e70d02dee1f13c731e289ce</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;XIAOYAOZI&quot;" target="&quot;石室&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"The stone chamber is where Xiaoyaozi's teachings are manifested, making it a significant location for the protagonist's actions."</data>
+  <data key="d5">chunk-e759c7e97e70d02dee1f13c731e289ce</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;神仙姊姊&quot;" target="&quot;北冥神功&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"神仙姊姊传授北冥神功，强调顺应自然规律而非强行控制，其核心是"自少商至云门"的练法，体现道家"无为而治"的修炼理念。"</data>
+  <data key="d5">chunk-05a895c63dcd6d56ace57b2dbd627f9e</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;神仙姊姊&quot;" target="&quot;凌波微步&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"神仙姊姊传授凌波微步的步法，需配合北冥神功的内力调动，二者共同构成完整的武功体系，体现道家"天人合一"的哲学思想。"</data>
+  <data key="d5">chunk-05a895c63dcd6d56ace57b2dbd627f9e</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHAN ZILONG&quot;" target="&quot;RESONANT CHESSBOARD&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Zhan Zilong engages with the Resonant Chessboard to understand the unknown intelligence's rules and strategies."</data>
+  <data key="d5">chunk-7042d44b19adbb4a1e427845c77603c5</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHAN ZILONG&quot;" target="&quot;MONK&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Zhan Zilong and the monk are connected through the Resonant Chessboard, representing the intersection of human emotion and cosmic mystery."</data>
+  <data key="d5">chunk-7042d44b19adbb4a1e427845c77603c5</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHAN ZILONG&quot;" target="&quot;MONK'S WIFE&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"Zhan Zilong's journey is intertwined with the monk's wife's emotional and philosophical insights, highlighting the depth of the story's themes."</data>
+  <data key="d5">chunk-7042d44b19adbb4a1e427845c77603c5</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;MONK&quot;" target="&quot;RESONANT CHESSBOARD&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The monk is directly involved in the process of learning to communicate with the unknown intelligence through the Resonant Chessboard."</data>
+  <data key="d5">chunk-7042d44b19adbb4a1e427845c77603c5</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;MONK'S WIFE&quot;" target="&quot;RESONANT CHESSBOARD&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The monk's wife is the one who initially gives the Resonant Chessboard to Zhan Zilong, initiating the journey of understanding the unknown intelligence's rules."</data>
+  <data key="d5">chunk-7042d44b19adbb4a1e427845c77603c5</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;THE DIVINE SAGE&quot;" target="&quot;SHÍ SHÌ&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The divine sage guides Segun through Shí Shì, imparting knowledge and wisdom essential for his quest."</data>
+  <data key="d5">chunk-51658fe07ba5c49537fa4c95c6400bf4</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;THE DIVINE SAGE&quot;" target="&quot;LÁNG HUÀN FÚ DÌ&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"The divine sage resides in Láng Huàn Fú Dì, guiding Segun through the mystical realm and providing critical knowledge."</data>
+  <data key="d5">chunk-51658fe07ba5c49537fa4c95c6400bf4</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;LÁNG HUÀN FÚ DÌ&quot;" target="&quot;LÁN CĀNG JIĀNG&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Láng Huàn Fú Dì is the location where Segun must cross Lán Cāng Jiāng to proceed further in his journey."</data>
+  <data key="d5">chunk-51658fe07ba5c49537fa4c95c6400bf4</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;钟姑娘&quot;" target="&quot;万劫谷&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"钟姑娘救下段誉，是万劫谷中关键事件的参与者。"</data>
+  <data key="d5">chunk-ddb3db3fcce8d0b4ddea809d94933571</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;江&quot;" target="&quot;铁索桥&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"铁索桥横跨江面，是段誉穿越险境的关键地理设施。"</data>
+  <data key="d5">chunk-ddb3db3fcce8d0b4ddea809d94933571</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;钟夫人&quot;" target="&quot;钟万仇&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"钟夫人与钟万仇在对话中表现出亲密关系，钟万仇因无法控制自己而感到内疚。</data>
+  <data key="d5">chunk-c50011b20c2ee043f8f12d02d25cf938</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHONG WAN CHOU&quot;" target="&quot;ZHONG BAI&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Zhong Wan Chou and Zhong Bai are husband and wife, united in their mission to save their daughter, embodying loyalty and partnership."</data>
+  <data key="d5">chunk-e1cee534b89bc93c9ae26e26feb6e2d6</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;THE TWO BIG MEN&quot;" target="&quot;THE OWNER OF THE BLACK ROSE&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The two big men are pursuing the black rose, which is being protected by its owner, creating a direct confrontation."</data>
+  <data key="d5">chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;DALI&quot;" target="&quot;THE BLACK ROSE&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"The black rose is located in Dali, a key location where the mission and conflict take place, and its preservation is critical to the story's progression."</data>
+  <data key="d5">chunk-e4edcdb61e5ad7bbef7b6c42e855c40c</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHANG LIANG&quot;" target="&quot;RUI PU&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Zhang Liang confronts Rui Pu, challenging the kingdom's authority and seeking to understand the unknown intelligence."</data>
+  <data key="d5">chunk-c6d9399b392f32f77eb7d63244e677fc</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;THE HALL&quot;" target="&quot;THE GROUP&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The group engages in dialogue and confrontation within the Hall, attempting to escape and communicate with the unknown intelligence."</data>
+  <data key="d5">chunk-c6d9399b392f32f77eb7d63244e677fc</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;THE KINGDOM&quot;" target="&quot;THE GROUP&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The group is part of the kingdom's forces, engaged in a confrontation to challenge the kingdom's rule and seek communication with the unknown intelligence."</data>
+  <data key="d5">chunk-c6d9399b392f32f77eb7d63244e677fc</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;瑞婆婆&quot;" target="&quot;平婆婆&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"瑞婆婆与平婆婆发生冲突，共同对抗黑衣女郎。"</data>
+  <data key="d5">chunk-0f2f867906a687ef5b12ded952687685</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;黑衣女郎&quot;" target="&quot;黑玫瑰&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Black Rose and Black Lady are in a fight, engaging in combat."</data>
+  <data key="d5">chunk-064024d7ed321aa8b378e97bd5ddf5ff</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;黑衣女郎&quot;" target="&quot;女角色&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"女角色命令黑衣女郎拉下面罩，体现角色间的互动与指令关系。"</data>
+  <data key="d5">chunk-929024d7c00e534c27f8b8317cba64bc</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;黑玫瑰&quot;" target="&quot;敌人&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Black Rose is fighting against the enemy, part of the battle."</data>
+  <data key="d5">chunk-064024d7ed321aa8b378e97bd5ddf5ff</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;澜沧江&quot;" target="&quot;EVENT&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"澜沧江作为地理环境，为事件的发生提供了背景，其特征影响人物互动。"</data>
+  <data key="d5">chunk-dd997cbcd5a121e3e43d73fa6084fbac</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;葛光佩&quot;" target="&quot;女角色&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"葛光佩与女角色共同探讨未知智能体的沟通，展现团队合作。"</data>
+  <data key="d5">chunk-929024d7c00e534c27f8b8317cba64bc</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;GIRL&quot;" target="&quot;SHEN NONG BANG&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"The girl is part of the Shen Nong Bang organization, seeking information and engaging with Left Zimu."&gt;</data>
+  <data key="d5">chunk-4364ff9650e94cacf968a26b5f08e8a6</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;NIAN GONG&quot;" target="&quot;ZHEN TIANLONG&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The monk is escaping from the Nian Gong, a deity that poses a challenge to his journey."</data>
+  <data key="d5">chunk-352f763cf2bb67326bfd678d7aec09be</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHEN TIANLONG&quot;" target="&quot;SHAN SHUI&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"The monk moves through the Shan Shui, navigating the natural landscape as part of his journey."</data>
+  <data key="d5">chunk-352f763cf2bb67326bfd678d7aec09be</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;STONE ROOM&quot;" target="&quot;THE JADE STATUE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The jade statue is located in the stone room, which is a crucial setting for the interaction."</data>
+  <data key="d5">chunk-de5b06106b2023bc9c57d5ba6c5e0a21</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;LADY ZHONG FU&quot;" target="&quot;MISSION&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The lady is involved in the mission, which involves uncovering the truth about the mysterious intelligence and the protagonist's role."</data>
+  <data key="d5">chunk-4acc2b6d7e014bb5ac688df7766fa918</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;ZHAN YU&quot;" target="&quot;THE INTERVAL&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Zhan Yu is part of the team at the Interval, which is the location of the First Contact."</data>
+  <data key="d5">chunk-4b9de5625c3048ba65aa8f8f5a7f5a69</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;TANG FEI&quot;" target="&quot;THE INTERVAL&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Tang Fei is part of the team at the Interval, which is the location of the First Contact."</data>
+  <data key="d5">chunk-4b9de5625c3048ba65aa8f8f5a7f5a69</data>
+  <data key="d6">1</data>
+</edge>
+<edge source="&quot;PING PU&quot;" target="&quot;THE INTERVAL&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Ping Pu is involved in the events at the Interval, which is the location of the First Contact."</data>
+  <data key="d5">chunk-4b9de5625c3048ba65aa8f8f5a7f5a69</data>
+  <data key="d6">1</data>
+</edge>
+</graph></graphml>

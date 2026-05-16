@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;公元701年&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The year 701 is mentioned as the birth year of Li Bai, indicating a historical event."</data>
+  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
+</node>
+<node id="&quot;西域碎叶城（今吉尔吉斯斯坦托克马克)&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"The birthplace of Li Bai, now Tokmak, Kyrgyzstan."</data>
+  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
+</node>
+<node id="&quot;匡山（今四川江油境内)&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"The location where Li Bai studied for ten years at the age of fifteen, now Jiangyou County, Sichuan."</data>
+  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
+</node>
+<node id="&quot;梓州（今四川三台)&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"The location where Li Bai visited Zhao Yi, now Santu County, Sichuan."</data>
+  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
+</node>
+<node id="&quot;安陆（今湖北安陆)&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"The location where Li Bai settled after leaving Jiangling (now Jingzhou, Hubei) and before moving to Donglai County."</data>
+  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
+</node>
+<node id="&quot;许氏&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The wife of Li Bai who passed away in 739, named Xu."</data>
+  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f</data>
+</node>
+<node id="&quot;唐玄宗&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Tang Xuan Zong was the emperor who summoned Li Bai to court in autumn 742."&lt;SEP&gt;"Tang Xuanzong is an emperor who summons Li Bai to Chang'an, appoints him as a non-formal officer in the imperial court responsible for composing poems or essays on behalf of Emperor Tang Xuanzong. He also grants Li Bai money and later becomes involved with other historical figures."</data>
+  <data key="d2">chunk-41fd42031964dfa4ccccb79f5129f75f&lt;SEP&gt;chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+</node>
+<node id="&quot;妇刘氏&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"妇刘氏 is a woman who initially wanted to reorganize her family but disliked Li Bai's lack of official position and often spoke coldly, leading him to leave frequently."</data>
+  <data key="d2">chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+</node>
+<node id="&quot;李白&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Li Bai is an individual involved in various events throughout his life. He eventually becomes part of the imperial court as a non-formal officer under Emperor Tang Xuanzong (玄宗). Li Bai also has interactions with other historical figures like Du Fu and writes poetry."&lt;SEP&gt;"李白 is a historical figure who visited various locations, wrote poems and died at the age of 62 in 762 AD. He was known for his poetry and had several notable life events documented."</data>
+  <data key="d2">chunk-b02ce44fab557da578581fcc93727c81&lt;SEP&gt;chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+</node>
+<node id="&quot;翰林院&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Hanlin Academy is an organization where Li Bai lives as a member, writing poetry in response to imperial commands during his time there."</data>
+  <data key="d2">chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+</node>
+<node id="&quot;洛阳&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Loyang is a location where Liu initially moves after leaving Li Bai, indicating it as part of his journey."</data>
+  <data key="d2">chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+</node>
+<node id="&quot;宣城&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Xuan Cheng is a location where Li Bai eventually goes after being pardoned by Liu's wife, indicating it as part of his journey."&lt;SEP&gt;"宣城 is one location where 李白 went to write about '众鸟高飞尽，孤云独去闲'."</data>
+  <data key="d2">chunk-b02ce44fab557da578581fcc93727c81&lt;SEP&gt;chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+</node>
+<node id="&quot;金陵&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Jiangling is a location where Li Bai goes after being pardoned by Liu's wife, indicating it as part of his journey."</data>
+  <data key="d2">chunk-91cd52fbfc989c0ee151c033e6ef2364</data>
+</node>
+</graph></graphml>
