@@ -8,7 +8,7 @@ import os
 import asyncio
 import ollama
 import numpy as np
-from nano_graphrag import GraphRAG
+from nano_graphrag import GraphRAG, QueryParam
 
 # 配置本地 Ollama 模型
 OLLAMA_LLM_MODEL = "phi4-mini:3.8b"  # 能够正确处理长提示词的模型
@@ -148,23 +148,8 @@ async def main():
     print(f"🔍 查询：{query}")
     print("=" * 70)
     
-    # try:
-    #     result = await rag.aquery(query)
-    #     print("\n📜 回答：")
-    #     print(result)
-    # except Exception as e:
-    #     print(f"⚠️ 查询遇到问题")
-    #     print(f"   错误: {str(e)[:100]}")
-    #     print("\n💡 提示：知识图谱构建过程中可能遇到向量处理问题")
-    #     print("   实体和关系提取已完成，但查询功能需要进一步调试")
-
-    query = "Which poets who held official positions did Li Bai encounter during his lifetime? Please list their names and the official posts they held."
-    print("=" * 70)
-    print(f"🔍 查询：{query}")
-    print("=" * 70)
-    
     try:
-        result = await rag.aquery(query)
+        result = await rag.aquery(query, param=QueryParam(mode="local"))
         print("\n📜 回答：")
         print(result)
     except Exception as e:
@@ -172,6 +157,25 @@ async def main():
         print(f"   错误: {str(e)}")
         print("\n💡 提示：知识图谱构建过程中可能遇到向量处理问题")
         print("   实体和关系提取已完成，但查询功能需要进一步调试")
+        import traceback
+        traceback.print_exc()
+
+    query = "Which poets who held official positions did Li Bai encounter during his lifetime? Please list their names and the official posts they held."
+    print("=" * 70)
+    print(f"🔍 查询：{query}")
+    print("=" * 70)
+    
+    try:
+        result = await rag.aquery(query, param=QueryParam(mode="local"))
+        print("\n📜 回答：")
+        print(result)
+    except Exception as e:
+        print(f"⚠️ 查询遇到问题")
+        print(f"   错误: {str(e)}")
+        print("\n💡 提示：知识图谱构建过程中可能遇到向量处理问题")
+        print("   实体和关系提取已完成，但查询功能需要进一步调试")
+        import traceback
+        traceback.print_exc()
         
 if __name__ == "__main__":
     asyncio.run(main())
