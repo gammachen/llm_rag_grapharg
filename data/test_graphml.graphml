@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+
+  <!-- 属性定义 -->
+  <key id="label" for="node" attr.name="label" attr.type="string"/>
+  <key id="size" for="node" attr.name="size" attr.type="double"/>
+  <key id="color" for="node" attr.name="color" attr.type="string"/>
+  <key id="category" for="node" attr.name="category" attr.type="string"/>
+  <key id="weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="edgeColor" for="edge" attr.name="edgeColor" attr.type="string"/>
+  <key id="edgeType" for="edge" attr.name="edgeType" attr.type="string"/>
+
+  <graph id="cyber_network" edgedefault="directed">
+
+    <!-- ===== 核心层节点 ===== -->
+    <node id="n0">
+      <data key="label">🧠 核心AI</data>
+      <data key="size">50.0</data>
+      <data key="color">#FF006E</data>
+      <data key="category">核心</data>
+    </node>
+    <node id="n1">
+      <data key="label">⚡ 能量中枢</data>
+      <data key="size">40.0</data>
+      <data key="color">#FB5607</data>
+      <data key="category">核心</data>
+    </node>
+    <node id="n2">
+      <data key="label">🔮 预测引擎</data>
+      <data key="size">38.0</data>
+      <data key="color">#FFBE0B</data>
+      <data key="category">核心</data>
+    </node>
+
+    <!-- ===== 处理层节点 ===== -->
+    <node id="n3">
+      <data key="label">📡 数据采集</data>
+      <data key="size">30.0</data>
+      <data key="color">#8338EC</data>
+      <data key="category">处理</data>
+    </node>
+    <node id="n4">
+      <data key="label">🔍 特征提取</data>
+      <data key="size">28.0</data>
+      <data key="color">#3A86FF</data>
+      <data key="category">处理</data>
+    </node>
+    <node id="n5">
+      <data key="label">🧬 模型训练</data>
+      <data key="size">32.0</data>
+      <data key="color">#06D6A0</data>
+      <data key="category">处理</data>
+    </node>
+    <node id="n6">
+      <data key="label">📊 数据分析</data>
+      <data key="size">26.0</data>
+      <data key="color">#118AB2</data>
+      <data key="category">处理</data>
+    </node>
+    <node id="n7">
+      <data key="label">🛡️ 安全防护</data>
+      <data key="size">29.0</data>
+      <data key="color">#EF476F</data>
+      <data key="category">处理</data>
+    </node>
+
+    <!-- ===== 输出层节点 ===== -->
+    <node id="n8">
+      <data key="label">🌐 Web服务</data>
+      <data key="size">24.0</data>
+      <data key="color">#073B4C</data>
+      <data key="category">输出</data>
+    </node>
+    <node id="n9">
+      <data key="label">📱 移动终端</data>
+      <data key="size">22.0</data>
+      <data key="color">#FFD166</data>
+      <data key="category">输出</data>
+    </node>
+    <node id="n10">
+      <data key="label">🤖 API接口</data>
+      <data key="size">25.0</data>
+      <data key="color">#06D6A0</data>
+      <data key="category">输出</data>
+    </node>
+    <node id="n11">
+      <data key="label">📈 可视化</data>
+      <data key="size">23.0</data>
+      <data key="color">#118AB2</data>
+      <data key="category">输出</data>
+    </node>
+
+    <!-- ===== 外部节点 ===== -->
+    <node id="n12">
+      <data key="label">☁️ 云端存储</data>
+      <data key="size">20.0</data>
+      <data key="color">#8D99AE</data>
+      <data key="category">外部</data>
+    </node>
+    <node id="n13">
+      <data key="label">🔗 区块链</data>
+      <data key="size">21.0</data>
+      <data key="color">#6C757D</data>
+      <data key="category">外部</data>
+    </node>
+    <node id="n14">
+      <data key="label">📡 IoT设备</data>
+      <data key="size">18.0</data>
+      <data key="color">#ADB5BD</data>
+      <data key="category">外部</data>
+    </node>
+
+    <!-- ===== 边连接 ===== -->
+    <!-- 核心层内部连接 -->
+    <edge id="e0" source="n0" target="n1">
+      <data key="weight">5.0</data>
+      <data key="edgeColor">#FF006E</data>
+      <data key="edgeType">控制</data>
+    </edge>
+    <edge id="e1" source="n0" target="n2">
+      <data key="weight">4.5</data>
+      <data key="edgeColor">#FF006E</data>
+      <data key="edgeType">数据流</data>
+    </edge>
+    <edge id="e2" source="n1" target="n2">
+      <data key="weight">3.0</data>
+      <data key="edgeColor">#FB5607</data>
+      <data key="edgeType">同步</data>
+    </edge>
+
+    <!-- 核心到处理层 -->
+    <edge id="e3" source="n0" target="n3">
+      <data key="weight">4.0</data>
+      <data key="edgeColor">#FF006E</data>
+      <data key="edgeType">指令</data>
+    </edge>
+    <edge id="e4" source="n0" target="n5">
+      <data key="weight">4.8</data>
+      <data key="edgeColor">#FF006E</data>
+      <data key="edgeType">训练信号</data>
+    </edge>
+    <edge id="e5" source="n1" target="n4">
+      <data key="weight">3.5</data>
+      <data key="edgeColor">#FB5607</data>
+      <data key="edgeType">能量供给</data>
+    </edge>
+    <edge id="e6" source="n2" target="n6">
+      <data key="weight">3.8</data>
+      <data key="edgeColor">#FFBE0B</data>
+      <data key="edgeType">预测输入</data>
+    </edge>
+    <edge id="e7" source="n1" target="n7">
+      <data key="weight">3.2</data>
+      <data key="edgeColor">#FB5607</data>
+      <data key="edgeType">安全协议</data>
+    </edge>
+
+    <!-- 处理层内部连接 -->
+    <edge id="e8" source="n3" target="n4">
+      <data key="weight">4.2</data>
+      <data key="edgeColor">#8338EC</data>
+      <data key="edgeType">数据传递</data>
+    </edge>
+    <edge id="e9" source="n4" target="n5">
+      <data key="weight">4.5</data>
+      <data key="edgeColor">#3A86FF</data>
+      <data key="edgeType">特征输入</data>
+    </edge>
+    <edge id="e10" source="n5" target="n6">
+      <data key="weight">3.9</data>
+      <data key="edgeColor">#06D6A0</data>
+      <data key="edgeType">模型输出</data>
+    </edge>
+    <edge id="e11" source="n6" target="n4">
+      <data key="weight">2.5</data>
+      <data key="edgeColor">#118AB2</data>
+      <data key="edgeType">反馈</data>
+    </edge>
+    <edge id="e12" source="n7" target="n3">
+      <data key="weight">2.8</data>
+      <data key="edgeColor">#EF476F</data>
+      <data key="edgeType">监控</data>
+    </edge>
+    <edge id="e13" source="n7" target="n5">
+      <data key="weight">3.0</data>
+      <data key="edgeColor">#EF476F</data>
+      <data key="edgeType">防护</data>
+    </edge>
+
+    <!-- 处理层到输出层 -->
+    <edge id="e14" source="n5" target="n10">
+      <data key="weight">4.0</data>
+      <data key="edgeColor">#06D6A0</data>
+      <data key="edgeType">API调用</data>
+    </edge>
+    <edge id="e15" source="n6" target="n11">
+      <data key="weight">3.7</data>
+      <data key="edgeColor">#118AB2</data>
+      <data key="edgeType">数据渲染</data>
+    </edge>
+    <edge id="e16" source="n4" target="n8">
+      <data key="weight">3.3</data>
+      <data key="edgeColor">#3A86FF</data>
+      <data key="edgeType">服务响应</data>
+    </edge>
+    <edge id="e17" source="n6" target="n9">
+      <data key="weight">2.9</data>
+      <data key="edgeColor">#118AB2</data>
+      <data key="edgeType">推送</data>
+    </edge>
+
+    <!-- 输出层到外部 -->
+    <edge id="e18" source="n8" target="n12">
+      <data key="weight">3.5</data>
+      <data key="edgeColor">#073B4C</data>
+      <data key="edgeType">存储</data>
+    </edge>
+    <edge id="e19" source="n10" target="n13">
+      <data key="weight">2.5</data>
+      <data key="edgeColor">#06D6A0</data>
+      <data key="edgeType">上链</data>
+    </edge>
+    <edge id="e20" source="n3" target="n14">
+      <data key="weight">3.0</data>
+      <data key="edgeColor">#8338EC</data>
+      <data key="edgeType">采集</data>
+    </edge>
+
+    <!-- 外部反馈 -->
+    <edge id="e21" source="n12" target="n0">
+      <data key="weight">2.0</data>
+      <data key="edgeColor">#8D99AE</data>
+      <data key="edgeType">数据回流</data>
+    </edge>
+    <edge id="e22" source="n14" target="n3">
+      <data key="weight">3.2</data>
+      <data key="edgeColor">#ADB5BD</data>
+      <data key="edgeType">传感器数据</data>
+    </edge>
+
+  </graph>
+</graphml>
