@@ -12,7 +12,10 @@ from nano_graphrag import GraphRAG, QueryParam
 
 # 配置本地 Ollama 模型
 OLLAMA_LLM_MODEL = "phi4-mini:3.8b"  # 能够正确处理长提示词的模型
+OLLAMA_LLM_MODEL = "qwen3.5:9b"  # 用于快速查询的模型
+
 OLLAMA_EMBEDDING_MODEL = "nomic-embed-text:latest"
+OLLAMA_EMBEDDING_MODEL = "quentinz/bge-small-zh-v1.5"
 
 async def ollama_model_func(prompt: str, **kwargs) -> str:
     """异步Ollama模型完成函数"""
@@ -38,6 +41,7 @@ async def ollama_model_func(prompt: str, **kwargs) -> str:
             options={
                 'temperature': 0.1,
                 'num_predict': 3000,
+                'think': False,
             }
         )
         result = response['message']['content']
